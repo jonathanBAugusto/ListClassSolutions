@@ -1,0 +1,102 @@
+c:\users\jonathan\documents\visual studio 2013\Projects\ListarProjeto\ListarProjeto\bin\Debug\ListarProjeto.exe.config
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ListarProjeto\ListarProjeto\bin\Debug\ListarProjeto.exe
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ListarProjeto\ListarProjeto\bin\Debug\ListarProjeto.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.Form1.resources
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.exe.licenses
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.exe
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.pdb
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ListarProjeto.exe.config
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ListarProjeto.exe
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ListarProjeto.pdb
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Data.v17.2.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Images.v17.2.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraBars.v17.2.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Data.v17.2.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraBars.v17.2.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\ERPFeline\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.csprojAssemblyReference.cache
+D:\ERPFeline\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.Form1.resources
+D:\ERPFeline\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.Properties.Resources.resources
+D:\ERPFeline\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.csproj.GenerateResource.cache
+D:\ERPFeline\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.exe.licenses
+D:\ERPFeline\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.csproj.CoreCompileInputs.cache
+D:\ERPFeline\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.csproj.CopyComplete
+D:\ERPFeline\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.exe
+D:\ERPFeline\ListarProjeto\ListarProjeto\obj\Debug\ListarProjeto.pdb

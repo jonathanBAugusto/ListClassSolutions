@@ -1,0 +1,5348 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <PESQUISA>
+    <ID>0</ID>
+    <NOM_PROJ>AboutBox1</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1</ID>
+    <NOM_PROJ>DashboardView</NOM_PROJ>
+    <NOM_RUNT>Dashboard View</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>2</ID>
+    <NOM_PROJ>DesignerPrintPreview</NOM_PROJ>
+    <NOM_RUNT>Visualização Para Impressão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>3</ID>
+    <NOM_PROJ>FormLoading</NOM_PROJ>
+    <NOM_RUNT>Form1</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>4</ID>
+    <NOM_PROJ>FrmAbout</NOM_PROJ>
+    <NOM_RUNT>FrmAbout</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>5</ID>
+    <NOM_PROJ>FrmAniversariantes</NOM_PROJ>
+    <NOM_RUNT>Aniversariantes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>6</ID>
+    <NOM_PROJ>FrmCadBancoDespRet</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Banco</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>7</ID>
+    <NOM_PROJ>FrmCriarLayout</NOM_PROJ>
+    <NOM_RUNT>Layout de </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>8</ID>
+    <NOM_PROJ>frmCustomMenu</NOM_PROJ>
+    <NOM_RUNT>Custom Menu</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>9</ID>
+    <NOM_PROJ>FrmDashboardDesign</NOM_PROJ>
+    <NOM_RUNT>Dashboard Design</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>10</ID>
+    <NOM_PROJ>FrmEmailSistema</NOM_PROJ>
+    <NOM_RUNT>Enviar E-Mail</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>11</ID>
+    <NOM_PROJ>FrmGraficos</NOM_PROJ>
+    <NOM_RUNT>Graficos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>12</ID>
+    <NOM_PROJ>FrmOrdRel</NOM_PROJ>
+    <NOM_RUNT>Ordenação do Relatório</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>13</ID>
+    <NOM_PROJ>FrmTelao</NOM_PROJ>
+    <NOM_RUNT>Painel Digital</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>14</ID>
+    <NOM_PROJ>FrmTipoGrafico</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>15</ID>
+    <NOM_PROJ>MainFeline</NOM_PROJ>
+    <NOM_RUNT>ERP Feline</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>16</ID>
+    <NOM_PROJ>MainFelineOld</NOM_PROJ>
+    <NOM_RUNT>ERP-Feline Tela Principal do Sistema</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>17</ID>
+    <NOM_PROJ>PesqTable</NOM_PROJ>
+    <NOM_RUNT>PesqTable</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>18</ID>
+    <NOM_PROJ>PrintPreview</NOM_PROJ>
+    <NOM_RUNT>Visualizar Relat�rio</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>19</ID>
+    <NOM_PROJ>PrintRibbonControllerResources</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>20</ID>
+    <NOM_PROJ>splashScreen</NOM_PROJ>
+    <NOM_RUNT>Form1</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>21</ID>
+    <NOM_PROJ>XRDesignRibbonControllerResources</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>22</ID>
+    <NOM_PROJ>xrMovCxRecDesp</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>23</ID>
+    <NOM_PROJ>AboutBox1</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>24</ID>
+    <NOM_PROJ>DashboardView</NOM_PROJ>
+    <NOM_RUNT>Dashboard View</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>25</ID>
+    <NOM_PROJ>DesignerPrintPreview</NOM_PROJ>
+    <NOM_RUNT>Visualização Para Impressão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>26</ID>
+    <NOM_PROJ>FormLoading</NOM_PROJ>
+    <NOM_RUNT>Form1</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>27</ID>
+    <NOM_PROJ>FrmAbout</NOM_PROJ>
+    <NOM_RUNT>FrmAbout</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>28</ID>
+    <NOM_PROJ>FrmAniversariantes</NOM_PROJ>
+    <NOM_RUNT>Aniversariantes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>29</ID>
+    <NOM_PROJ>FrmCadBancoDespRet</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Banco</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>30</ID>
+    <NOM_PROJ>FrmCriarLayout</NOM_PROJ>
+    <NOM_RUNT>Layout de </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>31</ID>
+    <NOM_PROJ>frmCustomMenu</NOM_PROJ>
+    <NOM_RUNT>Custom Menu</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>32</ID>
+    <NOM_PROJ>FrmDashboardDesign</NOM_PROJ>
+    <NOM_RUNT>Dashboard Design</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>33</ID>
+    <NOM_PROJ>FrmEmailSistema</NOM_PROJ>
+    <NOM_RUNT>Enviar E-Mail</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>34</ID>
+    <NOM_PROJ>FrmGraficos</NOM_PROJ>
+    <NOM_RUNT>Graficos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>35</ID>
+    <NOM_PROJ>FrmOrdRel</NOM_PROJ>
+    <NOM_RUNT>Ordenação do Relatório</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>36</ID>
+    <NOM_PROJ>FrmTelao</NOM_PROJ>
+    <NOM_RUNT>Painel Digital</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>37</ID>
+    <NOM_PROJ>FrmTipoGrafico</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>38</ID>
+    <NOM_PROJ>MainFeline</NOM_PROJ>
+    <NOM_RUNT>ERP Feline</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>39</ID>
+    <NOM_PROJ>MainFelineOld</NOM_PROJ>
+    <NOM_RUNT>ERP-Feline Tela Principal do Sistema</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>40</ID>
+    <NOM_PROJ>PesqTable</NOM_PROJ>
+    <NOM_RUNT>PesqTable</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>41</ID>
+    <NOM_PROJ>PrintPreview</NOM_PROJ>
+    <NOM_RUNT>Visualizar Relat�rio</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>42</ID>
+    <NOM_PROJ>PrintRibbonControllerResources</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>43</ID>
+    <NOM_PROJ>splashScreen</NOM_PROJ>
+    <NOM_RUNT>Form1</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>44</ID>
+    <NOM_PROJ>XRDesignRibbonControllerResources</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>45</ID>
+    <NOM_PROJ>xrMovCxRecDesp</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>46</ID>
+    <NOM_PROJ>BrowserNavigationControl</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>47</ID>
+    <NOM_PROJ>FAtencao</NOM_PROJ>
+    <NOM_RUNT>ERP-Feline Atenção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>48</ID>
+    <NOM_PROJ>FMensagem</NOM_PROJ>
+    <NOM_RUNT>ERP-Feline Mensagem</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>49</ID>
+    <NOM_PROJ>FrmEscolherConexao</NOM_PROJ>
+    <NOM_RUNT>INDBRAS</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>50</ID>
+    <NOM_PROJ>FrmInputQuery</NOM_PROJ>
+    <NOM_RUNT>FrmInputQuery</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>51</ID>
+    <NOM_PROJ>FSimNao</NOM_PROJ>
+    <NOM_RUNT>ERP-Feline Confirmação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>52</ID>
+    <NOM_PROJ>ImpressaoBoleto</NOM_PROJ>
+    <NOM_RUNT>Impress�o do Boleto</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>53</ID>
+    <NOM_PROJ>Progresso</NOM_PROJ>
+    <NOM_RUNT>Progresso</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>54</ID>
+    <NOM_PROJ>RelCodBarra</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>55</ID>
+    <NOM_PROJ>relEficPed.pt-BR</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>56</ID>
+    <NOM_PROJ>relEficPed</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>57</ID>
+    <NOM_PROJ>SplashScreen1</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>58</ID>
+    <NOM_PROJ>uc_Relatorios</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>59</ID>
+    <NOM_PROJ>xLocFedPed2</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>60</ID>
+    <NOM_PROJ>xrAbastecimento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>61</ID>
+    <NOM_PROJ>xrAcompProducao</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>62</ID>
+    <NOM_PROJ>xrAlteracaoCredito</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>63</ID>
+    <NOM_PROJ>xrApuracaoImpostos</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>64</ID>
+    <NOM_PROJ>xrAvisoCobranca</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>65</ID>
+    <NOM_PROJ>xrBalancete</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>66</ID>
+    <NOM_PROJ>xrbarcode</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>67</ID>
+    <NOM_PROJ>xrbarcode1Col</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>68</ID>
+    <NOM_PROJ>xrbarcode2Col</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>69</ID>
+    <NOM_PROJ>xrbarcode3</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>70</ID>
+    <NOM_PROJ>xrbarcode3Col</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>71</ID>
+    <NOM_PROJ>xrBarcodeNotaEntrada</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>72</ID>
+    <NOM_PROJ>xrBarCodResquisicaoMateriais</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>73</ID>
+    <NOM_PROJ>xrBoaVista</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>74</ID>
+    <NOM_PROJ>xrCarne</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>75</ID>
+    <NOM_PROJ>xrCarneCupom</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>76</ID>
+    <NOM_PROJ>xrCarneCupomCliente</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>77</ID>
+    <NOM_PROJ>xrCartaCobranca</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>78</ID>
+    <NOM_PROJ>xrCbr</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>79</ID>
+    <NOM_PROJ>xrCobrancaAnalitico</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>80</ID>
+    <NOM_PROJ>xrComparativoVendas</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>81</ID>
+    <NOM_PROJ>xrComprasProd</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>82</ID>
+    <NOM_PROJ>xrConfSubTrib</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>83</ID>
+    <NOM_PROJ>xrConsignado</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>84</ID>
+    <NOM_PROJ>xrConsumoPorTRF</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>85</ID>
+    <NOM_PROJ>xrContasPagar</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>86</ID>
+    <NOM_PROJ>xrContasReceber</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>87</ID>
+    <NOM_PROJ>xrContatos</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>88</ID>
+    <NOM_PROJ>xrContatos2</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>89</ID>
+    <NOM_PROJ>xrControleTerAnalitico</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>90</ID>
+    <NOM_PROJ>xrControleTerSintetico</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>91</ID>
+    <NOM_PROJ>xrCopiaFichaTecnica</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>92</ID>
+    <NOM_PROJ>xrCopiaFichaTecnicaItem</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>93</ID>
+    <NOM_PROJ>xrCopiaFichaTecnicaKit</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>94</ID>
+    <NOM_PROJ>xrCopiaOrdemCompra</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>95</ID>
+    <NOM_PROJ>xrCopiaPedComis </NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>96</ID>
+    <NOM_PROJ>xrCopiaPedComis</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>97</ID>
+    <NOM_PROJ>xrCopiaPedGradFixa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>98</ID>
+    <NOM_PROJ>xrCopiaPedGraf</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>99</ID>
+    <NOM_PROJ>xrCopiaPedGrafAgrupado</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>100</ID>
+    <NOM_PROJ>xrCopiaPedGrafLog</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>101</ID>
+    <NOM_PROJ>xrCopiaPedGrafPDV</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>102</ID>
+    <NOM_PROJ>xrCopiaPedido</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>103</ID>
+    <NOM_PROJ>xrCopiaPedRef</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>104</ID>
+    <NOM_PROJ>xrCopiaPedRefDet</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>105</ID>
+    <NOM_PROJ>xrCopiaPedRefSint</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>106</ID>
+    <NOM_PROJ>xrCopiaRequisicao</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>107</ID>
+    <NOM_PROJ>xrCopiaTabPreco</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>108</ID>
+    <NOM_PROJ>xrCorrecaoEletronica</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>109</ID>
+    <NOM_PROJ>xrCotacao</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>110</ID>
+    <NOM_PROJ>xrCrossTablePedDispDep</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>111</ID>
+    <NOM_PROJ>xrCrossTablePedInDispDep</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>112</ID>
+    <NOM_PROJ>xrCrossTablePedSeparar</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>113</ID>
+    <NOM_PROJ>xrCrossTableReq</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>114</ID>
+    <NOM_PROJ>xrCrossTableReqTRF</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>115</ID>
+    <NOM_PROJ>xrCustoAdicional</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>116</ID>
+    <NOM_PROJ>xrCustoPrototipo</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>117</ID>
+    <NOM_PROJ>xrDadosFinaceiro</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>118</ID>
+    <NOM_PROJ>xrDadosFinanUltimasCompras</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>119</ID>
+    <NOM_PROJ>xrDadosFinanValoresFaturados</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>120</ID>
+    <NOM_PROJ>xrDadosFinsValoresReceber</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>121</ID>
+    <NOM_PROJ>xrDAMDFE</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>122</ID>
+    <NOM_PROJ>xrDespBancaria</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>123</ID>
+    <NOM_PROJ>xrDetailLancamento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>124</ID>
+    <NOM_PROJ>xrDuplicata</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>125</ID>
+    <NOM_PROJ>xRelBonux</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>126</ID>
+    <NOM_PROJ>xrEmbalagemPEdido</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>127</ID>
+    <NOM_PROJ>xrEtiquetaPessoa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>128</ID>
+    <NOM_PROJ>xrEtiqVolume</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>129</ID>
+    <NOM_PROJ>xrExpDemonstrativo</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>130</ID>
+    <NOM_PROJ>xrExtratoCaixa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>131</ID>
+    <NOM_PROJ>xrExtratoCaixaResumo</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>132</ID>
+    <NOM_PROJ>xrFaturamento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>133</ID>
+    <NOM_PROJ>xrFaturamentoEntrada</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>134</ID>
+    <NOM_PROJ>xrFaturamentoRef</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>135</ID>
+    <NOM_PROJ>xrFaturamentoRefLista</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>136</ID>
+    <NOM_PROJ>xrFaturamentoRefNota</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>137</ID>
+    <NOM_PROJ>xrFaturamentoSerie</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>138</ID>
+    <NOM_PROJ>xrfechacaixa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>139</ID>
+    <NOM_PROJ>xrFichaConsumo</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>140</ID>
+    <NOM_PROJ>xrFichaDetalhes</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>141</ID>
+    <NOM_PROJ>xrFichaSeparacao</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>142</ID>
+    <NOM_PROJ>xrFichaSeparacao2</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>143</ID>
+    <NOM_PROJ>xrFichaTec</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>144</ID>
+    <NOM_PROJ>xrFichaTecCusto</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>145</ID>
+    <NOM_PROJ>xrFichaTecCustoEncargos</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>146</ID>
+    <NOM_PROJ>xrFichaTecCustoGrupo</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>147</ID>
+    <NOM_PROJ>xrFichaTecCustoKit</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>148</ID>
+    <NOM_PROJ>xrFichaTecItem</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>149</ID>
+    <NOM_PROJ>xrFinreceberTaxasDesp</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>150</ID>
+    <NOM_PROJ>xrFluxoCaixa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>151</ID>
+    <NOM_PROJ>xrFroAdiantamento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>152</ID>
+    <NOM_PROJ>xrHelpDesk</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>153</ID>
+    <NOM_PROJ>xrHorasParadas</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>154</ID>
+    <NOM_PROJ>xrImagem</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>155</ID>
+    <NOM_PROJ>xrItensAgrupador</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>156</ID>
+    <NOM_PROJ>xrLayout</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>157</ID>
+    <NOM_PROJ>xrLayoutBoletos</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>158</ID>
+    <NOM_PROJ>xrLiquidezInadiplencia</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>159</ID>
+    <NOM_PROJ>xrLocRefPed</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>160</ID>
+    <NOM_PROJ>xrMinutaTransp</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>161</ID>
+    <NOM_PROJ>xrMovCaixa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>162</ID>
+    <NOM_PROJ>xrMovCxRecDesp</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>163</ID>
+    <NOM_PROJ>xrMovCxSintetico</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>164</ID>
+    <NOM_PROJ>xrmReportOrcamentoParcelas</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>165</ID>
+    <NOM_PROJ>xrNFCe</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>166</ID>
+    <NOM_PROJ>xrNFSRef</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>167</ID>
+    <NOM_PROJ>xrNFSRefReceber</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>168</ID>
+    <NOM_PROJ>xrNFSRefReceberComis</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>169</ID>
+    <NOM_PROJ>xrNotaEntradaAcessorias</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>170</ID>
+    <NOM_PROJ>xrNotaEntradaRef</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>171</ID>
+    <NOM_PROJ>xrNotaFiscal</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>172</ID>
+    <NOM_PROJ>xrNotaFiscalEletronica</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>173</ID>
+    <NOM_PROJ>xrOperacao</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>174</ID>
+    <NOM_PROJ>xrOperacaoGrade</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>175</ID>
+    <NOM_PROJ>xrOrcamento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>176</ID>
+    <NOM_PROJ>xrOrcamentoCusto</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>177</ID>
+    <NOM_PROJ>xrOrdCompra</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>178</ID>
+    <NOM_PROJ>xrOrdemServico</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>179</ID>
+    <NOM_PROJ>xrOrdemServicoDespesa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>180</ID>
+    <NOM_PROJ>xrPackingList</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>181</ID>
+    <NOM_PROJ>xrPackingList2</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>182</ID>
+    <NOM_PROJ>xrPedAgrupa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>183</ID>
+    <NOM_PROJ>xrPedido</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>184</ID>
+    <NOM_PROJ>xrPedPacote</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>185</ID>
+    <NOM_PROJ>xrPedPacote2</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>186</ID>
+    <NOM_PROJ>xrPedPacotexrPedPacote2</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>187</ID>
+    <NOM_PROJ>xrPessoa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>188</ID>
+    <NOM_PROJ>XrPosCobranca</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>189</ID>
+    <NOM_PROJ>xrPosicaoSetores</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>190</ID>
+    <NOM_PROJ>xrPrevFaturamento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>191</ID>
+    <NOM_PROJ>xrPrintQuestionarioCRM</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>192</ID>
+    <NOM_PROJ>xrProducao</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>193</ID>
+    <NOM_PROJ>xrRazaoProdutos</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>194</ID>
+    <NOM_PROJ>xrRecDesp</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>195</ID>
+    <NOM_PROJ>xrRecDespCC</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>196</ID>
+    <NOM_PROJ>xrReceber</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>197</ID>
+    <NOM_PROJ>xrReceberAberto</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>198</ID>
+    <NOM_PROJ>xrRecibo</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>199</ID>
+    <NOM_PROJ>xrRefBanco</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>200</ID>
+    <NOM_PROJ>xrRefComercio</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>201</ID>
+    <NOM_PROJ>xrRelCaixa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>202</ID>
+    <NOM_PROJ>xrRelCheque</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>203</ID>
+    <NOM_PROJ>xrRelCodBarra</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>204</ID>
+    <NOM_PROJ>xrRelConsolidado</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>205</ID>
+    <NOM_PROJ>xrRelEnvRetPeso</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>206</ID>
+    <NOM_PROJ>xrRelFatCFO</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>207</ID>
+    <NOM_PROJ>xrRelInvoide</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>208</ID>
+    <NOM_PROJ>xrRelMovCorte</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>209</ID>
+    <NOM_PROJ>xrRelRelatorio</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>210</ID>
+    <NOM_PROJ>XrRelResumoFret</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>211</ID>
+    <NOM_PROJ>xrRendPorOP</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>212</ID>
+    <NOM_PROJ>xrRequisicao</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>213</ID>
+    <NOM_PROJ>xrRequisicaoItem</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>214</ID>
+    <NOM_PROJ>XrResultado</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>215</ID>
+    <NOM_PROJ>XrResumoCx</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>216</ID>
+    <NOM_PROJ>xrRetornoBanco</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>217</ID>
+    <NOM_PROJ>xrRomaneioEmbarque</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>218</ID>
+    <NOM_PROJ>xrSaldoCelula</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>219</ID>
+    <NOM_PROJ>xrSaldoSelulaItens</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>220</ID>
+    <NOM_PROJ>xrServicoItem</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>221</ID>
+    <NOM_PROJ>xrSolicitacaoCompra</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>222</ID>
+    <NOM_PROJ>xrTabPrecoImagem</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>223</ID>
+    <NOM_PROJ>xrTabPrecoPeriodo</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>224</ID>
+    <NOM_PROJ>xrTransferencia</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>225</ID>
+    <NOM_PROJ>xrTransferenciaConsumo</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>226</ID>
+    <NOM_PROJ>xrTransferenciaItensServico</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>227</ID>
+    <NOM_PROJ>xrTransfExpOP</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>228</ID>
+    <NOM_PROJ>xrTrocaDevol</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>229</ID>
+    <NOM_PROJ>xrTrocaDevolFat</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>230</ID>
+    <NOM_PROJ>xrValeCompra</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>231</ID>
+    <NOM_PROJ>xrVendasPeriodoMix</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>232</ID>
+    <NOM_PROJ>FrmChatFeline</NOM_PROJ>
+    <NOM_RUNT>Feline Talk</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>233</ID>
+    <NOM_PROJ>PrivateChat</NOM_PROJ>
+    <NOM_RUNT>Messagem Privada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>234</ID>
+    <NOM_PROJ>FrmAnexosNotaEntrada</NOM_PROJ>
+    <NOM_RUNT>Anexos do NotaEntrada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>235</ID>
+    <NOM_PROJ>FrmAprovarCotacao</NOM_PROJ>
+    <NOM_RUNT>Aprovação da Cotação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>236</ID>
+    <NOM_PROJ>FrmAprovaSolicitacao</NOM_PROJ>
+    <NOM_RUNT>Aprovação de Solicitação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>237</ID>
+    <NOM_PROJ>frmCadTipoNotaEntrada</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tipo de Nota de Entrada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>238</ID>
+    <NOM_PROJ>FrmChaveNotaEletronica</NOM_PROJ>
+    <NOM_RUNT> Chave da Nota Eletrônica e Ciência da Operação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>239</ID>
+    <NOM_PROJ>FrmCMVComercio</NOM_PROJ>
+    <NOM_RUNT>C.P.V. Comércio</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>240</ID>
+    <NOM_PROJ>FrmComInvoice</NOM_PROJ>
+    <NOM_RUNT>Importação - Invoice</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>241</ID>
+    <NOM_PROJ>FrmComprasProd</NOM_PROJ>
+    <NOM_RUNT>Compras por Produto</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>242</ID>
+    <NOM_PROJ>FrmCompraVsFaturamento</NOM_PROJ>
+    <NOM_RUNT>Análise de Compras vs Faturamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>243</ID>
+    <NOM_PROJ>FrmCotacao</NOM_PROJ>
+    <NOM_RUNT>Cotação de Compra</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>244</ID>
+    <NOM_PROJ>FrmCotacaoSolicitacao</NOM_PROJ>
+    <NOM_RUNT>Cotação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>245</ID>
+    <NOM_PROJ>FrmCriaLayoutNFE</NOM_PROJ>
+    <NOM_RUNT>Editor Layout Nota Fiscal de Entrada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>246</ID>
+    <NOM_PROJ>FrmCriarLayoutNotaEntrada</NOM_PROJ>
+    <NOM_RUNT>Criar Layout Nota Entrada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>247</ID>
+    <NOM_PROJ>FrmDevCompras</NOM_PROJ>
+    <NOM_RUNT>Devolução de Compras</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>248</ID>
+    <NOM_PROJ>FrmEditarPrecoNotaEntrada</NOM_PROJ>
+    <NOM_RUNT>Editar Preco Nota Entrada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>249</ID>
+    <NOM_PROJ>FrmEditarPrecoPagEntrada</NOM_PROJ>
+    <NOM_RUNT>Editar Preco Nota Entrada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>250</ID>
+    <NOM_PROJ>FrmGerarLoteNFE</NOM_PROJ>
+    <NOM_RUNT>Fracionar Lote NFE</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>251</ID>
+    <NOM_PROJ>FrmImportarCorreio</NOM_PROJ>
+    <NOM_RUNT>Importação dos Correios</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>252</ID>
+    <NOM_PROJ>FrmImportarCTE</NOM_PROJ>
+    <NOM_RUNT>Importar CTe</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>253</ID>
+    <NOM_PROJ>FrmNotaEntrada</NOM_PROJ>
+    <NOM_RUNT>Nota Fiscal de Entrada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>254</ID>
+    <NOM_PROJ>FrmOrdCompFornec</NOM_PROJ>
+    <NOM_RUNT>Gerar Ordem de Compra Por Fornecedor</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>255</ID>
+    <NOM_PROJ>FrmOrdemCompra</NOM_PROJ>
+    <NOM_RUNT>Ordem de Compra</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>256</ID>
+    <NOM_PROJ>FrmPesqComInvoice</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Importação Invoice</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>257</ID>
+    <NOM_PROJ>FrmPesqCotacao</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Cotação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>258</ID>
+    <NOM_PROJ>FrmPesqNFE</NOM_PROJ>
+    <NOM_RUNT>Pesquisar Nota Fiscal de Entrada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>259</ID>
+    <NOM_PROJ>FrmPesqOrdemCompra</NOM_PROJ>
+    <NOM_RUNT>Pesquisa Ordem de Compra</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>260</ID>
+    <NOM_PROJ>FrmPesqOrdemCompraNFE</NOM_PROJ>
+    <NOM_RUNT>Pesquisa Ordens de Compra / Nota Fiscal de Entrada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>261</ID>
+    <NOM_PROJ>FrmPesqOrdemCompraRef</NOM_PROJ>
+    <NOM_RUNT>Ordens de Compra por Fornecedor</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>262</ID>
+    <NOM_PROJ>FrmPesqSolicitacaoCompra</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Solicitação de Compra</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>263</ID>
+    <NOM_PROJ>FrmRateioNotaEntrada</NOM_PROJ>
+    <NOM_RUNT>Itens de Rateio Para Nota Entrada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>264</ID>
+    <NOM_PROJ>FrmSolicitacaoCompra</NOM_PROJ>
+    <NOM_RUNT>Solicitação de Compra</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>265</ID>
+    <NOM_PROJ>frmUpdCustoManual</NOM_PROJ>
+    <NOM_RUNT>Atualização de Custo Manual das Referências</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>266</ID>
+    <NOM_PROJ>FrmVendasVsEstoque</NOM_PROJ>
+    <NOM_RUNT>Vendas vs Estoque</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>267</ID>
+    <NOM_PROJ>RelAuditNotaEntrada</NOM_PROJ>
+    <NOM_RUNT>Auditoria de Notas Fiscais [Tabela de Preços]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>268</ID>
+    <NOM_PROJ>RelComprasPeriodo</NOM_PROJ>
+    <NOM_RUNT>Compras por Período</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>269</ID>
+    <NOM_PROJ>RelCurvaAbcCompras</NOM_PROJ>
+    <NOM_RUNT>Curva ABC [Produtos Tamanho] </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>270</ID>
+    <NOM_PROJ>RelFaturamentoEntrada</NOM_PROJ>
+    <NOM_RUNT>Relatório de Nota Fiscal de Entrada</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>271</ID>
+    <NOM_PROJ>RelNotaEntradaRef</NOM_PROJ>
+    <NOM_RUNT>Relatório de Nota Fiscal de Entrada - Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>272</ID>
+    <NOM_PROJ>RelOrdemCompra</NOM_PROJ>
+    <NOM_RUNT>Relatório Ordem de Compra</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>273</ID>
+    <NOM_PROJ>RelProdPontoReposicao</NOM_PROJ>
+    <NOM_RUNT>Relatório de Produtos Abaixo do Ponto de Reposição e Estoque Mínimo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>274</ID>
+    <NOM_PROJ>ucReports</NOM_PROJ>
+    <NOM_RUNT>Pedidos Consignados[Conferência]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>275</ID>
+    <NOM_PROJ>xrConferencia</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>276</ID>
+    <NOM_PROJ>xrParcelamento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>277</ID>
+    <NOM_PROJ>xrRecibo2</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>278</ID>
+    <NOM_PROJ>xrRelAnalitico</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>279</ID>
+    <NOM_PROJ>frmCadContador</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Contador</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>280</ID>
+    <NOM_PROJ>FrmCadCtaGrau</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Grau Contábil</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>281</ID>
+    <NOM_PROJ>frmCtaFechamentoBalanco</NOM_PROJ>
+    <NOM_RUNT>Fechamento Balanco</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>282</ID>
+    <NOM_PROJ>frmCtaLancamento</NOM_PROJ>
+    <NOM_RUNT>Lancamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>283</ID>
+    <NOM_PROJ>frmCtaNatureza</NOM_PROJ>
+    <NOM_RUNT>Natureza do Plano de Contas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>284</ID>
+    <NOM_PROJ>frmCtaPlanoContas</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Plano de Contas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>285</ID>
+    <NOM_PROJ>frmCtaTransf</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Transferência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>286</ID>
+    <NOM_PROJ>frmFatCFOPCtaSped</NOM_PROJ>
+    <NOM_RUNT>CFOP x Plano de Contas SPED</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>287</ID>
+    <NOM_PROJ>RelBalancete</NOM_PROJ>
+    <NOM_RUNT>Relatório de Balancete</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>288</ID>
+    <NOM_PROJ>FrmAcompanhamentoMetasCRM</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento de Metas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>289</ID>
+    <NOM_PROJ>FrmAcompanhamentoQuestionario</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento Questionário</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>290</ID>
+    <NOM_PROJ>FrmAgc</NOM_PROJ>
+    <NOM_RUNT>Compromissos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>291</ID>
+    <NOM_PROJ>FrmAgcCadastro</NOM_PROJ>
+    <NOM_RUNT>Novo Compromisso</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>292</ID>
+    <NOM_PROJ>FrmAge</NOM_PROJ>
+    <NOM_RUNT>Agenda de Contatos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>293</ID>
+    <NOM_PROJ>FrmAgeCadastro</NOM_PROJ>
+    <NOM_RUNT>Adicionar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>294</ID>
+    <NOM_PROJ>FrmAgeCompromissos</NOM_PROJ>
+    <NOM_RUNT>Compromissos [Pessoal]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>295</ID>
+    <NOM_PROJ>FrmAnexoProspect</NOM_PROJ>
+    <NOM_RUNT>Editar Anexo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>296</ID>
+    <NOM_PROJ>FrmCadConRapido</NOM_PROJ>
+    <NOM_RUNT>Contato Rapido - Help Desk</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>297</ID>
+    <NOM_PROJ>FrmCadConRapidoSin</NOM_PROJ>
+    <NOM_RUNT>Contato Rapido - Help Desk</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>298</ID>
+    <NOM_PROJ>FrmCadCrmCampanhaEmail</NOM_PROJ>
+    <NOM_RUNT>Tipo de Campanha</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>299</ID>
+    <NOM_PROJ>FrmCadCrmCampanhaEmailDet</NOM_PROJ>
+    <NOM_RUNT>Campanha de E-Mails</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>300</ID>
+    <NOM_PROJ>FrmCadCrmMalaDireta</NOM_PROJ>
+    <NOM_RUNT>Mala Direta</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>301</ID>
+    <NOM_PROJ>FrmCadCrmPreferencia</NOM_PROJ>
+    <NOM_RUNT>Preferencia</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>302</ID>
+    <NOM_PROJ>FrmCadCrmTipoAtendimento</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tipo de Atendimento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>303</ID>
+    <NOM_PROJ>FrmCadCrmTipos</NOM_PROJ>
+    <NOM_RUNT>Tipos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>304</ID>
+    <NOM_PROJ>FrmCadCrmTipoSolicitacao</NOM_PROJ>
+    <NOM_RUNT>Tipo de Solicitacao</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>305</ID>
+    <NOM_PROJ>FrmCadHelpDesk</NOM_PROJ>
+    <NOM_RUNT>HelpDesk</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>306</ID>
+    <NOM_PROJ>FrmCadJustificativa</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Justificativa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>307</ID>
+    <NOM_PROJ>FrmCadMeta</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Metas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>308</ID>
+    <NOM_PROJ>FrmCadPocMensagens</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Mensagens</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>309</ID>
+    <NOM_PROJ>FrmCadSituacao</NOM_PROJ>
+    <NOM_RUNT>Situação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>310</ID>
+    <NOM_PROJ>FrmCadTempletes</NOM_PROJ>
+    <NOM_RUNT>Templates</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>311</ID>
+    <NOM_PROJ>FrmCompromissos</NOM_PROJ>
+    <NOM_RUNT>Compromissos [SAC]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>312</ID>
+    <NOM_PROJ>FrmCrmPesq</NOM_PROJ>
+    <NOM_RUNT>CRM Pesquisa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>313</ID>
+    <NOM_PROJ>frmFasePedido</NOM_PROJ>
+    <NOM_RUNT>Controle de Fases de Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>314</ID>
+    <NOM_PROJ>frmGerarFaixaCodigoVision</NOM_PROJ>
+    <NOM_RUNT>Faixa de Código [Vision]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>315</ID>
+    <NOM_PROJ>FrmJustificativaJoin</NOM_PROJ>
+    <NOM_RUNT>Justificativa Vision</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>316</ID>
+    <NOM_PROJ>FrmMailMe</NOM_PROJ>
+    <NOM_RUNT>Mailee.Me</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>317</ID>
+    <NOM_PROJ>FrmPedCrm</NOM_PROJ>
+    <NOM_RUNT>Orçamento/Pedidos [CRM]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>318</ID>
+    <NOM_PROJ>FrmPesqHespDesk</NOM_PROJ>
+    <NOM_RUNT>Pesquisa HelpDesk</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>319</ID>
+    <NOM_PROJ>FrmPesqPedidoCRM</NOM_PROJ>
+    <NOM_RUNT> Pesquisa de Pedido CRM</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>320</ID>
+    <NOM_PROJ>frmPesqProspect</NOM_PROJ>
+    <NOM_RUNT>Consultar Prospect</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>321</ID>
+    <NOM_PROJ>FrmProspect</NOM_PROJ>
+    <NOM_RUNT>Prospect</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>322</ID>
+    <NOM_PROJ>FrmPublicacao</NOM_PROJ>
+    <NOM_RUNT>Publicação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>323</ID>
+    <NOM_PROJ>FrmQuestionarioEmail</NOM_PROJ>
+    <NOM_RUNT>Enviar E-Mail [Questionário]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>324</ID>
+    <NOM_PROJ>FrmRespQuestionario</NOM_PROJ>
+    <NOM_RUNT>Responder Questionário</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>325</ID>
+    <NOM_PROJ>FrmSolicitacaoVisita</NOM_PROJ>
+    <NOM_RUNT>Solicitação de Visitas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>326</ID>
+    <NOM_PROJ>FrmTemplates</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>327</ID>
+    <NOM_PROJ>FrmTopVendas</NOM_PROJ>
+    <NOM_RUNT>Top Vendas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>328</ID>
+    <NOM_PROJ>FrmWebBrowser</NOM_PROJ>
+    <NOM_RUNT>Web Browser Feline</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>329</ID>
+    <NOM_PROJ>FrmDesignerForm</NOM_PROJ>
+    <NOM_RUNT>FrmEditeForm</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>330</ID>
+    <NOM_PROJ>FrmDesignerRel</NOM_PROJ>
+    <NOM_RUNT>FrmDesignerRel</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>331</ID>
+    <NOM_PROJ>FrmNewRel</NOM_PROJ>
+    <NOM_RUNT>Novo Relatório</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>332</ID>
+    <NOM_PROJ>FrmRelRelatorio</NOM_PROJ>
+    <NOM_RUNT>Gerador de Relatórios</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>333</ID>
+    <NOM_PROJ>PrintRibbonControllerResources</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>334</ID>
+    <NOM_PROJ>XRDesignRibbonControllerResources</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>335</ID>
+    <NOM_PROJ>frmCancelamentoNFCe</NOM_PROJ>
+    <NOM_RUNT>Cancelamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>336</ID>
+    <NOM_PROJ>FrmGerarNFCe</NOM_PROJ>
+    <NOM_RUNT>Gerar Nota Fiscal de Consumidor Eletrônica</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>337</ID>
+    <NOM_PROJ>frmCancelamento</NOM_PROJ>
+    <NOM_RUNT>Cancelamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>338</ID>
+    <NOM_PROJ>FrmCCe</NOM_PROJ>
+    <NOM_RUNT>Carta de Correção Eletrônica</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>339</ID>
+    <NOM_PROJ>FrmCodIbge</NOM_PROJ>
+    <NOM_RUNT>FrmCodIbge</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>340</ID>
+    <NOM_PROJ>frmConsultaProc</NOM_PROJ>
+    <NOM_RUNT>Consultar Processamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>341</ID>
+    <NOM_PROJ>frmConsultaSituacao</NOM_PROJ>
+    <NOM_RUNT>Consulta Situação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>342</ID>
+    <NOM_PROJ>FrmEmail</NOM_PROJ>
+    <NOM_RUNT>Enviar E-Mail</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>343</ID>
+    <NOM_PROJ>FrmFatNotaSaidaComplementar</NOM_PROJ>
+    <NOM_RUNT>Nota Saida Complementar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>344</ID>
+    <NOM_PROJ>FrmGerarNFE</NOM_PROJ>
+    <NOM_RUNT>Gerar Nota Fiscal Eletrônica</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>345</ID>
+    <NOM_PROJ>frmImprimirDanfe</NOM_PROJ>
+    <NOM_RUNT>Imprimir DANFE</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>346</ID>
+    <NOM_PROJ>FrmInutilizacao</NOM_PROJ>
+    <NOM_RUNT>Inutilização</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>347</ID>
+    <NOM_PROJ>FrmNcmProdutos</NOM_PROJ>
+    <NOM_RUNT>NCM dos Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>348</ID>
+    <NOM_PROJ>FrmNotaSaidaAvulsa</NOM_PROJ>
+    <NOM_RUNT>Nota Saida Avulsa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>349</ID>
+    <NOM_PROJ>FrmNotaSaidaAvulsaImpPed</NOM_PROJ>
+    <NOM_RUNT>Nota Saida Avulsa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>350</ID>
+    <NOM_PROJ>frmRetornoProc</NOM_PROJ>
+    <NOM_RUNT>Retorno de Processamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>351</ID>
+    <NOM_PROJ>frmValidaSchema</NOM_PROJ>
+    <NOM_RUNT>Validar XML 1.10</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>352</ID>
+    <NOM_PROJ>FrmAcompMetaRepVision</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento de Meta [Vision]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>353</ID>
+    <NOM_PROJ>FrmApostaVenda</NOM_PROJ>
+    <NOM_RUNT>Aposta de Venda</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>354</ID>
+    <NOM_PROJ>FrmCadBanco</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Banco</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>355</ID>
+    <NOM_PROJ>FrmCadBancoDespRet</NOM_PROJ>
+    <NOM_RUNT>Identificação de Despesas Bancárias [Retorno]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>356</ID>
+    <NOM_PROJ>FrmCadCFO</NOM_PROJ>
+    <NOM_RUNT>Cadastro de CFOP</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>357</ID>
+    <NOM_PROJ>FrmCadCidade</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Cidade</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>358</ID>
+    <NOM_PROJ>FrmCadClassPessoa</NOM_PROJ>
+    <NOM_RUNT>Classificação de Pessoas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>359</ID>
+    <NOM_PROJ>FrmCadCliCompleto</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Clientes - Completo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>360</ID>
+    <NOM_PROJ>FrmCadConta</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Contas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>361</ID>
+    <NOM_PROJ>FrmCadEstado</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Estados</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>362</ID>
+    <NOM_PROJ>FrmCadFilial</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Filiais</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>363</ID>
+    <NOM_PROJ>FrmCadGrupoEmpresarial</NOM_PROJ>
+    <NOM_RUNT>Grupo Empresarial</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>364</ID>
+    <NOM_PROJ>FrmCadIdiomas</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Idiomas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>365</ID>
+    <NOM_PROJ>FrmCadMarcas</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Marcas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>366</ID>
+    <NOM_PROJ>FrmCadOperadoras</NOM_PROJ>
+    <NOM_RUNT>Operadoras</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>367</ID>
+    <NOM_PROJ>FrmCadPais</NOM_PROJ>
+    <NOM_RUNT>Cadastro de País</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>368</ID>
+    <NOM_PROJ>frmCadRapCliente</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Cliente Rápido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>369</ID>
+    <NOM_PROJ>FrmCadRegiao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Regiões</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>370</ID>
+    <NOM_PROJ>FrmCadRegional</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Regional</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>371</ID>
+    <NOM_PROJ>FrmCadSegmentos</NOM_PROJ>
+    <NOM_RUNT>Segmentos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>372</ID>
+    <NOM_PROJ>FrmCadSerie</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Séries</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>373</ID>
+    <NOM_PROJ>FrmCadTipoCobranca</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tipo de Cobrança</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>374</ID>
+    <NOM_PROJ>FrmCadTipoFatura</NOM_PROJ>
+    <NOM_RUNT>Tipo de Cliente para Faturamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>375</ID>
+    <NOM_PROJ>FrmCadVeiculos</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Veiculos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>376</ID>
+    <NOM_PROJ>FrmCarteiras</NOM_PROJ>
+    <NOM_RUNT>Carteiras</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>377</ID>
+    <NOM_PROJ>FrmCarteirasSubstArquivo</NOM_PROJ>
+    <NOM_RUNT>Carteiras - Substituir no Arquivo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>378</ID>
+    <NOM_PROJ>FrmCheckResultado</NOM_PROJ>
+    <NOM_RUNT>Conferir Demonstrativo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>379</ID>
+    <NOM_PROJ>FrmContaComissao</NOM_PROJ>
+    <NOM_RUNT>Conta de Comissão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>380</ID>
+    <NOM_PROJ>FrmControleViagens</NOM_PROJ>
+    <NOM_RUNT>Controle de Viagens</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>381</ID>
+    <NOM_PROJ>FrmCriarLayoutEtiquetaPessoa</NOM_PROJ>
+    <NOM_RUNT>Criar Layout Etiquetas de Pessoas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>382</ID>
+    <NOM_PROJ>FrmDepartamentoColaboradores</NOM_PROJ>
+    <NOM_RUNT>Departamento / Colaboradores</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>383</ID>
+    <NOM_PROJ>FrmEditarAnexo</NOM_PROJ>
+    <NOM_RUNT>Editar Anexo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>384</ID>
+    <NOM_PROJ>FrmEditarInfInternas</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Informações Internas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>385</ID>
+    <NOM_PROJ>FrmFatMetaRepres</NOM_PROJ>
+    <NOM_RUNT>Metas de Representantes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>386</ID>
+    <NOM_PROJ>frmFechamentoViagem</NOM_PROJ>
+    <NOM_RUNT>Fechamento de Viagem</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>387</ID>
+    <NOM_PROJ>FrmFelineDocs</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Documentos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>388</ID>
+    <NOM_PROJ>FrmFelineDocsAgenda</NOM_PROJ>
+    <NOM_RUNT>Agendamento dos Documentos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>389</ID>
+    <NOM_PROJ>FrmFelineDocsCategoria</NOM_PROJ>
+    <NOM_RUNT>Categorias</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>390</ID>
+    <NOM_PROJ>FrmFinOperadoraTipoCobr</NOM_PROJ>
+    <NOM_RUNT>Operadora / Tipo Cobrança</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>391</ID>
+    <NOM_PROJ>FrmFroClassificacao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Classificação de Viagens</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>392</ID>
+    <NOM_PROJ>FrmGerarFaixaCodClientes</NOM_PROJ>
+    <NOM_RUNT>Gerar Faixa de Cod. Clientes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>393</ID>
+    <NOM_PROJ>FrmGrupoEmpFaixaComis</NOM_PROJ>
+    <NOM_RUNT>Faixa de Descontos - Comissão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>394</ID>
+    <NOM_PROJ>frmLayoutDRE</NOM_PROJ>
+    <NOM_RUNT>Layout do Demonstrativo de Resultados</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>395</ID>
+    <NOM_PROJ>FrmManutencaoContatos</NOM_PROJ>
+    <NOM_RUNT>Manutenção de Contatos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>396</ID>
+    <NOM_PROJ>FrmManutencaoPessoas</NOM_PROJ>
+    <NOM_RUNT>Manutenção de Pessoas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>397</ID>
+    <NOM_PROJ>FrmManutencaoTelefones</NOM_PROJ>
+    <NOM_RUNT>Manutenção de Telefones</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>398</ID>
+    <NOM_PROJ>FrmMdfeConsultaNaoEnv</NOM_PROJ>
+    <NOM_RUNT>Consultar não Encerradas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>399</ID>
+    <NOM_PROJ>frmPesqCEP</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de CEP</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>400</ID>
+    <NOM_PROJ>FrmPesqCeps</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Endereço</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>401</ID>
+    <NOM_PROJ>FrmPesqPessoas</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Pessoas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>402</ID>
+    <NOM_PROJ>FrmPesqViagens</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Viagens</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>403</ID>
+    <NOM_PROJ>FrmPessoaInf</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>404</ID>
+    <NOM_PROJ>FrmRelDepartamentoColaboradores</NOM_PROJ>
+    <NOM_RUNT>Relatório de Departamento de Colaboradores</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>405</ID>
+    <NOM_PROJ>FrmRelRotaRepres</NOM_PROJ>
+    <NOM_RUNT>Programação de Vendas Representante</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>406</ID>
+    <NOM_PROJ>FrmRelRotaRepresAnalitico</NOM_PROJ>
+    <NOM_RUNT>Programação de Vendas Representante [Analítico]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>407</ID>
+    <NOM_PROJ>FrmReservaCodCliente</NOM_PROJ>
+    <NOM_RUNT>Reserva Faixa de Cod. Cliente</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>408</ID>
+    <NOM_PROJ>FrmResultado</NOM_PROJ>
+    <NOM_RUNT>Demonstrativo de Resultados</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>409</ID>
+    <NOM_PROJ>FrmTalaoChq</NOM_PROJ>
+    <NOM_RUNT>Talão de Cheques</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>410</ID>
+    <NOM_PROJ>FrmTaxasDesp</NOM_PROJ>
+    <NOM_RUNT>Taxas / Despesas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>411</ID>
+    <NOM_PROJ>FrmWebcam</NOM_PROJ>
+    <NOM_RUNT>WebCam</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>412</ID>
+    <NOM_PROJ>PesqFelineDocResp</NOM_PROJ>
+    <NOM_RUNT>Autoriza��o de Documentos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>413</ID>
+    <NOM_PROJ>RelMetaRepre</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento de Metas dos Representantes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>414</ID>
+    <NOM_PROJ>RelMetaRepVision</NOM_PROJ>
+    <NOM_RUNT>Relatório de Meta [Vision]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>415</ID>
+    <NOM_PROJ>FrmAddBonus</NOM_PROJ>
+    <NOM_RUNT>Bonus Cliente</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>416</ID>
+    <NOM_PROJ>FrmAlteraProdutoNF</NOM_PROJ>
+    <NOM_RUNT>Altera Produto NF</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>417</ID>
+    <NOM_PROJ>FrmAlteraValorPedido</NOM_PROJ>
+    <NOM_RUNT>Corrigir Preço das Referências do Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>418</ID>
+    <NOM_PROJ>FrmAlteraValorRefPedFat</NOM_PROJ>
+    <NOM_RUNT>Manutenção nas Referências e Preços de Pedidos Faturados</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>419</ID>
+    <NOM_PROJ>frmAnaliseCustoPed</NOM_PROJ>
+    <NOM_RUNT>Análise de Custos do Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>420</ID>
+    <NOM_PROJ>FrmAnexosPedido</NOM_PROJ>
+    <NOM_RUNT>Anexos do Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>421</ID>
+    <NOM_PROJ>FrmAntecipacao</NOM_PROJ>
+    <NOM_RUNT>Antecipação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>422</ID>
+    <NOM_PROJ>FrmApuracaoVendasComparativo</NOM_PROJ>
+    <NOM_RUNT>Apuração de Vendas Comparativo [Estoque Minimo]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>423</ID>
+    <NOM_PROJ>FrmAuditoriaDevolucoes</NOM_PROJ>
+    <NOM_RUNT>Auditoria de Devoluções</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>424</ID>
+    <NOM_PROJ>FrmAuditoriaFaturamentoCobranca</NOM_PROJ>
+    <NOM_RUNT>Análise de Faturamento x Cobrança</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>425</ID>
+    <NOM_PROJ>FrmBaixarEmbalagens</NOM_PROJ>
+    <NOM_RUNT>Baixar Embalagens</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>426</ID>
+    <NOM_PROJ>FrmBonus</NOM_PROJ>
+    <NOM_RUNT>Bônus de Clientes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>427</ID>
+    <NOM_PROJ>FrmCadCondPgto</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Condição de Pagamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>428</ID>
+    <NOM_PROJ>FrmCadConfigImposto</NOM_PROJ>
+    <NOM_RUNT>Configuração de Impostos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>429</ID>
+    <NOM_PROJ>FrmCadCstICMS</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Situação Tributária de ICMS</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>430</ID>
+    <NOM_PROJ>FrmCadCstIPI</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Situação Tributária de IPI</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>431</ID>
+    <NOM_PROJ>FrmCadCstPIS</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Situação Tributária de PIS</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>432</ID>
+    <NOM_PROJ>FrmCadEstagioPedido</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Estágio de Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>433</ID>
+    <NOM_PROJ>frmCadFaixasPrecos</NOM_PROJ>
+    <NOM_RUNT>Faixas de Precos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>434</ID>
+    <NOM_PROJ>FrmCadFatPedidoEstagioUsuario</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Notificação Para Usuário</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>435</ID>
+    <NOM_PROJ>FrmCadFatPedidoTipoGrupoEmp</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Critério</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>436</ID>
+    <NOM_PROJ>FrmCadFatServicoCorreios</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Serviços dos Correios</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>437</ID>
+    <NOM_PROJ>FrmCadFatTabelaPrecoFaixa</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tabela de Preços [Faixa]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>438</ID>
+    <NOM_PROJ>frmCadFilaOpPedido</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Fila de Operações de Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>439</ID>
+    <NOM_PROJ>FrmCadFreteTipo</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tipo de Frete </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>440</ID>
+    <NOM_PROJ>FrmCadImpostos</NOM_PROJ>
+    <NOM_RUNT>Impostos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>441</ID>
+    <NOM_PROJ>FrmCadMotivos</NOM_PROJ>
+    <NOM_RUNT>Motivos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>442</ID>
+    <NOM_PROJ>FrmCadPedidoInf</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>443</ID>
+    <NOM_PROJ>FrmCadSubMotivos</NOM_PROJ>
+    <NOM_RUNT>Sub-Motivos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>444</ID>
+    <NOM_PROJ>FrmCadTabelaIcms</NOM_PROJ>
+    <NOM_RUNT>ICMS</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>445</ID>
+    <NOM_PROJ>FrmCadTabelaIcmsDet</NOM_PROJ>
+    <NOM_RUNT>ICMS por Estado</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>446</ID>
+    <NOM_PROJ>FrmCadTabelaPreco</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tabela de Preços</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>447</ID>
+    <NOM_PROJ>FrmCadTabelaPrecoItem</NOM_PROJ>
+    <NOM_RUNT>Tabela de Preço - Referência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>448</ID>
+    <NOM_PROJ>FrmCadTabelaPrecoItemDescProm</NOM_PROJ>
+    <NOM_RUNT>Tabela de Preço - Referência - Desconto Promocional</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>449</ID>
+    <NOM_PROJ>FrmCadTabelaPrecoManual</NOM_PROJ>
+    <NOM_RUNT>Tabela de Preço - Manual Referência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>450</ID>
+    <NOM_PROJ>FrmCadTabelaPrecoPeriodoDet</NOM_PROJ>
+    <NOM_RUNT>Tabela de Preço - Referência [Período]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>451</ID>
+    <NOM_PROJ>FrmCadTipoDespesa</NOM_PROJ>
+    <NOM_RUNT>Cadastro Tipo de Despesa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>452</ID>
+    <NOM_PROJ>FrmCadTipoPedido</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tipo de Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>453</ID>
+    <NOM_PROJ>FrmCaixaCego</NOM_PROJ>
+    <NOM_RUNT>Fechamento de Caixa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>454</ID>
+    <NOM_PROJ>FrmCancelaPedido</NOM_PROJ>
+    <NOM_RUNT>Cancelamento de Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>455</ID>
+    <NOM_PROJ>FrmCanPedido</NOM_PROJ>
+    <NOM_RUNT>Cancelamento de Pedido Parcial</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>456</ID>
+    <NOM_PROJ>FrmCapaPedido</NOM_PROJ>
+    <NOM_RUNT>Capa do Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>457</ID>
+    <NOM_PROJ>FrmCfoClasFiscal</NOM_PROJ>
+    <NOM_RUNT>CFOP x Classificação Fiscal</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>458</ID>
+    <NOM_PROJ>FrmClienteRepresentanteRegiao</NOM_PROJ>
+    <NOM_RUNT>Clientes por Representante Região e Cidade</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>459</ID>
+    <NOM_PROJ>FrmClienteSemCompraPorReferencia</NOM_PROJ>
+    <NOM_RUNT>Cliente Sem Compra Por Referência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>460</ID>
+    <NOM_PROJ>FrmCodBarraRequisicao</NOM_PROJ>
+    <NOM_RUNT>Requisição</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>461</ID>
+    <NOM_PROJ>FrmComparativoVendas</NOM_PROJ>
+    <NOM_RUNT>Comparativo de Vendas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>462</ID>
+    <NOM_PROJ>FrmConfigRomaneio</NOM_PROJ>
+    <NOM_RUNT>Configuração de Romaneio</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>463</ID>
+    <NOM_PROJ>frmConfigXml</NOM_PROJ>
+    <NOM_RUNT>Configurações</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>464</ID>
+    <NOM_PROJ>FrmConfPedido</NOM_PROJ>
+    <NOM_RUNT>Conferência de Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>465</ID>
+    <NOM_PROJ>FrmConfPedidoAdd</NOM_PROJ>
+    <NOM_RUNT>Conferência de Pedidos [Adição de Itens]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>466</ID>
+    <NOM_PROJ>FrmConsEstoque</NOM_PROJ>
+    <NOM_RUNT>Consulta de Estoque</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>467</ID>
+    <NOM_PROJ>FrmConsultaCadastro</NOM_PROJ>
+    <NOM_RUNT>Consulta Dados Cadastrais [Sefaz]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>468</ID>
+    <NOM_PROJ>FrmContaComissoesRepres</NOM_PROJ>
+    <NOM_RUNT>Conta</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>469</ID>
+    <NOM_PROJ>FrmCriarLayoutNota</NOM_PROJ>
+    <NOM_RUNT>Layout de Notas Fiscais</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>470</ID>
+    <NOM_PROJ>FrmCriarLayoutOrdemServico</NOM_PROJ>
+    <NOM_RUNT>Layout de Etiqueta de Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>471</ID>
+    <NOM_PROJ>FrmCriarLayoutPedido</NOM_PROJ>
+    <NOM_RUNT>Criar Layout Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>472</ID>
+    <NOM_PROJ>FrmCxLancAutomatico</NOM_PROJ>
+    <NOM_RUNT>Lançamento Automático: Caixa / Conta</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>473</ID>
+    <NOM_PROJ>FrmDemonsTicketMedio</NOM_PROJ>
+    <NOM_RUNT>Demonstrativo de Tickets Médio [Representante]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>474</ID>
+    <NOM_PROJ>FrmDemonsTicketMedioCli</NOM_PROJ>
+    <NOM_RUNT>Demonstrativo de Tickets Médio [Cliente]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>475</ID>
+    <NOM_PROJ>FrmDespesaFrete</NOM_PROJ>
+    <NOM_RUNT>Despesa de Frete</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>476</ID>
+    <NOM_PROJ>FrmDevolAvulsa</NOM_PROJ>
+    <NOM_RUNT>Devolução Avulsa de Vendas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>477</ID>
+    <NOM_PROJ>FrmDevolExpres</NOM_PROJ>
+    <NOM_RUNT>Devolução Expressa de Vendas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>478</ID>
+    <NOM_PROJ>FrmDevolProdutos</NOM_PROJ>
+    <NOM_RUNT>Devolução de Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>479</ID>
+    <NOM_PROJ>FrmDevolucaoPecasRep</NOM_PROJ>
+    <NOM_RUNT>Devolução de Peças - Representante</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>480</ID>
+    <NOM_PROJ>FrmDevVendas</NOM_PROJ>
+    <NOM_RUNT>Devolução de Vendas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>481</ID>
+    <NOM_PROJ>FrmEditarNFS</NOM_PROJ>
+    <NOM_RUNT>Editar Nota</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>482</ID>
+    <NOM_PROJ>FrmEditRefGradePreco</NOM_PROJ>
+    <NOM_RUNT>Editar Referência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>483</ID>
+    <NOM_PROJ>FrmEmbalagem</NOM_PROJ>
+    <NOM_RUNT>Pedido Embalagem</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>484</ID>
+    <NOM_PROJ>frmEnderecoCliente</NOM_PROJ>
+    <NOM_RUNT>Endereços do Cliente</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>485</ID>
+    <NOM_PROJ>FrmEstornoNotaSaida</NOM_PROJ>
+    <NOM_RUNT>Estornar Nota Fiscal de Saída</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>486</ID>
+    <NOM_PROJ>FrmExibirInfoInterna</NOM_PROJ>
+    <NOM_RUNT>Informações Internas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>487</ID>
+    <NOM_PROJ>frmExpPDV</NOM_PROJ>
+    <NOM_RUNT>Exportação / Importação do PDV</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>488</ID>
+    <NOM_PROJ>FrmFatCfoComplemento</NOM_PROJ>
+    <NOM_RUNT>Complemento / Fisco</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>489</ID>
+    <NOM_PROJ>FrmFatFeriados</NOM_PROJ>
+    <NOM_RUNT>Feriados</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>490</ID>
+    <NOM_PROJ>FrmFatNotaSaidaFreteDesp</NOM_PROJ>
+    <NOM_RUNT>Despesa de Frete</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>491</ID>
+    <NOM_PROJ>FrmFatPedidoItemLog</NOM_PROJ>
+    <NOM_RUNT>Itens do Pedido Log</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>492</ID>
+    <NOM_PROJ>FrmFatPromocao</NOM_PROJ>
+    <NOM_RUNT>Tabela Promocional</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>493</ID>
+    <NOM_PROJ>FrmFatura</NOM_PROJ>
+    <NOM_RUNT>Faturamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>494</ID>
+    <NOM_PROJ>frmFaturamentoMensal</NOM_PROJ>
+    <NOM_RUNT>Faturamento Mensal</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>495</ID>
+    <NOM_PROJ>FrmGelProcess</NOM_PROJ>
+    <NOM_RUNT>Geo Processamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>496</ID>
+    <NOM_PROJ>FrmGerarLoteCarga</NOM_PROJ>
+    <NOM_RUNT>Gerar Lote de Carregamento de Pedidos </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>497</ID>
+    <NOM_PROJ>FrmGerarLotePedido</NOM_PROJ>
+    <NOM_RUNT>Gerar Lote de Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>498</ID>
+    <NOM_PROJ>FrmGerarNumCliente</NOM_PROJ>
+    <NOM_RUNT>Gerar Código de Clientes [Vision]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>499</ID>
+    <NOM_PROJ>FrmGerarNumCliPerfil</NOM_PROJ>
+    <NOM_RUNT>Gerar Número de Clientes Perfil</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>500</ID>
+    <NOM_PROJ>FrmGerarNumNota</NOM_PROJ>
+    <NOM_RUNT>Gerar Número de Notas Fiscais</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>501</ID>
+    <NOM_PROJ>FrmGerarNumPed</NOM_PROJ>
+    <NOM_RUNT>Gerar Número de Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>502</ID>
+    <NOM_PROJ>FrmGerarNumPedPerfil</NOM_PROJ>
+    <NOM_RUNT>Gerar Número de Pedidos Perfil</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>503</ID>
+    <NOM_PROJ>FrmGerarProxEntrega</NOM_PROJ>
+    <NOM_RUNT>Gerar Próxima Entrega</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>504</ID>
+    <NOM_PROJ>frmGerenciamentoRepres</NOM_PROJ>
+    <NOM_RUNT>Gerenciamento de Carteira Clientes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>505</ID>
+    <NOM_PROJ>FrmGetVendedor</NOM_PROJ>
+    <NOM_RUNT>Vendedor</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>506</ID>
+    <NOM_PROJ>FrmImpostosNotaSaida</NOM_PROJ>
+    <NOM_RUNT>Impostos Nota Saida</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>507</ID>
+    <NOM_PROJ>FrmImprNf</NOM_PROJ>
+    <NOM_RUNT>Impressão Nota Fiscal</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>508</ID>
+    <NOM_PROJ>FrmIndicacaoVision</NOM_PROJ>
+    <NOM_RUNT>Indicação de Vendas Vision</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>509</ID>
+    <NOM_PROJ>FrmInvoice</NOM_PROJ>
+    <NOM_RUNT>Invoice</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>510</ID>
+    <NOM_PROJ>FrmLiberaPedido</NOM_PROJ>
+    <NOM_RUNT>Liberação de Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>511</ID>
+    <NOM_PROJ>frmLogComissao</NOM_PROJ>
+    <NOM_RUNT>Log Comissão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>512</ID>
+    <NOM_PROJ>FrmMetaPorRepresentante</NOM_PROJ>
+    <NOM_RUNT>Meta Por Representante [Vision]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>513</ID>
+    <NOM_PROJ>FrmMmnConta</NOM_PROJ>
+    <NOM_RUNT>Cadastro de MMN Conta</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>514</ID>
+    <NOM_PROJ>FrmMMNPedidoVendedores</NOM_PROJ>
+    <NOM_RUNT>Representantes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>515</ID>
+    <NOM_PROJ>FrmMmnPlanos</NOM_PROJ>
+    <NOM_RUNT>Cadastro de MMN Planos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>516</ID>
+    <NOM_PROJ>FrmMMNRegra</NOM_PROJ>
+    <NOM_RUNT>Regras de Ascenção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>517</ID>
+    <NOM_PROJ>frmMmnSubPlanoDet</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Sub-Planos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>518</ID>
+    <NOM_PROJ>frmMonitorEtiqueta</NOM_PROJ>
+    <NOM_RUNT>Monitor de Impressão de Etiquetas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>519</ID>
+    <NOM_PROJ>FrmNfNovosProdutos</NOM_PROJ>
+    <NOM_RUNT>Novos Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>520</ID>
+    <NOM_PROJ>FrmNota_vs_Devol</NOM_PROJ>
+    <NOM_RUNT>Notas Saidas vs Devolução</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>521</ID>
+    <NOM_PROJ>FrmOrdemServico</NOM_PROJ>
+    <NOM_RUNT>Ordem Serviço</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>522</ID>
+    <NOM_PROJ>FrmPecasDevolucaoRep</NOM_PROJ>
+    <NOM_RUNT> Peças da Devolução</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>523</ID>
+    <NOM_PROJ>FrmPedExpr</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Pedido Expresso</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>524</ID>
+    <NOM_PROJ>FrmPedExprAvulso</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Pedido Avulso</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>525</ID>
+    <NOM_PROJ>FrmPedFabr</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>526</ID>
+    <NOM_PROJ>FrmPedidoComplementar</NOM_PROJ>
+    <NOM_RUNT>Pedido Complementar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>527</ID>
+    <NOM_PROJ>FrmPedidoEmbalagem</NOM_PROJ>
+    <NOM_RUNT>Pedido Embalagem</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>528</ID>
+    <NOM_PROJ>FrmPedidoFichaTec</NOM_PROJ>
+    <NOM_RUNT>Ficha T�cnica</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>529</ID>
+    <NOM_PROJ>FrmPedidoVendedores</NOM_PROJ>
+    <NOM_RUNT>Representantes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>530</ID>
+    <NOM_PROJ>FrmPedProducao</NOM_PROJ>
+    <NOM_RUNT>Pedido de Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>531</ID>
+    <NOM_PROJ>frmPedProSimilar</NOM_PROJ>
+    <NOM_RUNT>Produto</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>532</ID>
+    <NOM_PROJ>FrmPesqConfigImposto</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Configurações de Impostos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>533</ID>
+    <NOM_PROJ>FrmPesqConhecimentoFrete</NOM_PROJ>
+    <NOM_RUNT>Conhecimento de Frete</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>534</ID>
+    <NOM_PROJ>frmPesqContaComissao</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Contas de Comissão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>535</ID>
+    <NOM_PROJ>FrmPesqDevol</NOM_PROJ>
+    <NOM_RUNT>Devolução</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>536</ID>
+    <NOM_PROJ>FrmPesqDevolSaida</NOM_PROJ>
+    <NOM_RUNT>Devolução[Faturamento]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>537</ID>
+    <NOM_PROJ>FrmPesqLotesPedidos</NOM_PROJ>
+    <NOM_RUNT>Lote de Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>538</ID>
+    <NOM_PROJ>FrmPesqNFS</NOM_PROJ>
+    <NOM_RUNT>Localiza Nota Fiscal de Saída</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>539</ID>
+    <NOM_PROJ>FrmPesqNostasFiscais</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Notas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>540</ID>
+    <NOM_PROJ>frmPesqOrdemServico</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Ordem de Serviço</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>541</ID>
+    <NOM_PROJ>FrmPesqPedido</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>542</ID>
+    <NOM_PROJ>FrmPesqPedido2</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Pedidos [Liberação]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>543</ID>
+    <NOM_PROJ>FrmPesqPedidoLog</NOM_PROJ>
+    <NOM_RUNT>Alterações de Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>544</ID>
+    <NOM_PROJ>FrmPesqSubPlanos</NOM_PROJ>
+    <NOM_RUNT>Listagem de Sub-Planos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>545</ID>
+    <NOM_PROJ>FrmPoliticaDesc</NOM_PROJ>
+    <NOM_RUNT>Politica de Desconto</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>546</ID>
+    <NOM_PROJ>FrmPoliticaPreco</NOM_PROJ>
+    <NOM_RUNT>Política de Preços</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>547</ID>
+    <NOM_PROJ>FrmRanking</NOM_PROJ>
+    <NOM_RUNT>Ranking de Vendas por Referência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>548</ID>
+    <NOM_PROJ>FrmRankingRep</NOM_PROJ>
+    <NOM_RUNT>Ranking de Vendas Representante</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>549</ID>
+    <NOM_PROJ>FrmRankingRepCan</NOM_PROJ>
+    <NOM_RUNT>Ranking de Vendas Representante [Cancelamento]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>550</ID>
+    <NOM_PROJ>frmRegEntradaSaida</NOM_PROJ>
+    <NOM_RUNT>Registro de Entradas e Saídas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>551</ID>
+    <NOM_PROJ>FrmRelBonus</NOM_PROJ>
+    <NOM_RUNT>Relatório de Bonificação de Cliente </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>552</ID>
+    <NOM_PROJ>FrmRelCMV</NOM_PROJ>
+    <NOM_RUNT>C.M.V. Custo de Mercadoria Vendida</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>553</ID>
+    <NOM_PROJ>FrmRelComisPed</NOM_PROJ>
+    <NOM_RUNT>Indústria - Comissão Pedido x Recebimento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>554</ID>
+    <NOM_PROJ>FrmRelComisPedRecebto</NOM_PROJ>
+    <NOM_RUNT>Indústria - Comissão Pedido x Recebimento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>555</ID>
+    <NOM_PROJ>FrmRelComisRepres</NOM_PROJ>
+    <NOM_RUNT>Comissão Repres</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>556</ID>
+    <NOM_PROJ>FrmRelFatCFOP</NOM_PROJ>
+    <NOM_RUNT>Relatório de Faturamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>557</ID>
+    <NOM_PROJ>FrmRelFaturamentoCST</NOM_PROJ>
+    <NOM_RUNT>Faturamento por CST</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>558</ID>
+    <NOM_PROJ>FrmRelMetaPorRepresentante</NOM_PROJ>
+    <NOM_RUNT>Pesquisa Meta Por Representante [Vision]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>559</ID>
+    <NOM_PROJ>FrmRelRepSemVenda</NOM_PROJ>
+    <NOM_RUNT>Relatório de Representantes Mix Ref. Sem Vendas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>560</ID>
+    <NOM_PROJ>FrmRelSubMotivos</NOM_PROJ>
+    <NOM_RUNT>Relatório de Sub-Motivos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>561</ID>
+    <NOM_PROJ>FrmRemanegamentoPedido</NOM_PROJ>
+    <NOM_RUNT>Remanejamento de Pedidos Sem Estoque</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>562</ID>
+    <NOM_PROJ>FrmReplicarObsInterno</NOM_PROJ>
+    <NOM_RUNT>Replicar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>563</ID>
+    <NOM_PROJ>FrmReplicarPreco</NOM_PROJ>
+    <NOM_RUNT>Replicar Preço [Fixo]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>564</ID>
+    <NOM_PROJ>FrmReplicarPrecoPeriodo</NOM_PROJ>
+    <NOM_RUNT>Replicar Preço [Periodo]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>565</ID>
+    <NOM_PROJ>FrmRepresCliente</NOM_PROJ>
+    <NOM_RUNT>Representante do Cliente</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>566</ID>
+    <NOM_PROJ>FrmReservaCodPedido</NOM_PROJ>
+    <NOM_RUNT>Reserva Faixa de Cod. Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>567</ID>
+    <NOM_PROJ>frmResumo_Livro</NOM_PROJ>
+    <NOM_RUNT>Resumo do Livro [Entrada e Saidas]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>568</ID>
+    <NOM_PROJ>frmSeparacao</NOM_PROJ>
+    <NOM_RUNT>Separação de Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>569</ID>
+    <NOM_PROJ>FrmSintegra</NOM_PROJ>
+    <NOM_RUNT>Sintegra</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>570</ID>
+    <NOM_PROJ>FrmSolicitaCorte</NOM_PROJ>
+    <NOM_RUNT>Solicitação de Corte</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>571</ID>
+    <NOM_PROJ>FrmSortido</NOM_PROJ>
+    <NOM_RUNT>Sortido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>572</ID>
+    <NOM_PROJ>FrmTabelaPrecoComis</NOM_PROJ>
+    <NOM_RUNT>Conta de Comissão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>573</ID>
+    <NOM_PROJ>FrmTabelaPrecoReplic</NOM_PROJ>
+    <NOM_RUNT>Tabela Preço Replicação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>574</ID>
+    <NOM_PROJ>frmTabPrecoClassProd</NOM_PROJ>
+    <NOM_RUNT>Tabela de Preços x Classificação Fiscal de Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>575</ID>
+    <NOM_PROJ>FrmTabPrecoManutencao</NOM_PROJ>
+    <NOM_RUNT>Manutenção de Preços [Periodo] </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>576</ID>
+    <NOM_PROJ>FrmTabPrecoManutencaoFixo</NOM_PROJ>
+    <NOM_RUNT>Manutenção de Preços [Fixo]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>577</ID>
+    <NOM_PROJ>FrmTabPrecoPeriodo</NOM_PROJ>
+    <NOM_RUNT>Tabela de Preço por Período</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>578</ID>
+    <NOM_PROJ>FrmTransPedido</NOM_PROJ>
+    <NOM_RUNT>Frete Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>579</ID>
+    <NOM_PROJ>FrmTranspRegiao</NOM_PROJ>
+    <NOM_RUNT>Região  das Transportadoras</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>580</ID>
+    <NOM_PROJ>FrmTrocaDevol</NOM_PROJ>
+    <NOM_RUNT>Trocas / Devoluções</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>581</ID>
+    <NOM_PROJ>frmTrocarCFOPedido</NOM_PROJ>
+    <NOM_RUNT>Trocar CFO Pedido </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>582</ID>
+    <NOM_PROJ>frmTrocarCFOPedidoRef</NOM_PROJ>
+    <NOM_RUNT>Trocar CFO Pedido </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>583</ID>
+    <NOM_PROJ>frmVendasRep</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento de Vendas Representante</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>584</ID>
+    <NOM_PROJ>FrmVendasRepresentante</NOM_PROJ>
+    <NOM_RUNT>Vendas por Representante  Com/Sem Vendas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>585</ID>
+    <NOM_PROJ>FrmVolumeNF</NOM_PROJ>
+    <NOM_RUNT>Especificação de Volume da NF</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>586</ID>
+    <NOM_PROJ>relAnalisePedFat</NOM_PROJ>
+    <NOM_RUNT>Relatório de Análise de Pedidos para Faturamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>587</ID>
+    <NOM_PROJ>RelApuracaoImpostos</NOM_PROJ>
+    <NOM_RUNT>Relatório de Apuração de Impostos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>588</ID>
+    <NOM_PROJ>RelApuraVendasCliente</NOM_PROJ>
+    <NOM_RUNT>Apuração de Vendas - Limite de Crédito</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>589</ID>
+    <NOM_PROJ>RelClienteSemCompras</NOM_PROJ>
+    <NOM_RUNT>Clientes sem Compras</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>590</ID>
+    <NOM_PROJ>RelClienteXRepresentante</NOM_PROJ>
+    <NOM_RUNT>Relatório de Clientes x Representantes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>591</ID>
+    <NOM_PROJ>relComisMMN</NOM_PROJ>
+    <NOM_RUNT>Relatório de Comissão [MMN]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>592</ID>
+    <NOM_PROJ>RelComisPolitica</NOM_PROJ>
+    <NOM_RUNT>Comissões por Faixa de Vendas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>593</ID>
+    <NOM_PROJ>relControleAtendimento</NOM_PROJ>
+    <NOM_RUNT>Controle de Atendimentos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>594</ID>
+    <NOM_PROJ>RelCurvaAbc</NOM_PROJ>
+    <NOM_RUNT>Curva ABC [Produtos]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>595</ID>
+    <NOM_PROJ>RelCurvaAbcCliente</NOM_PROJ>
+    <NOM_RUNT>Curva ABC [Cliente]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>596</ID>
+    <NOM_PROJ>RelCurvaAbcFinal</NOM_PROJ>
+    <NOM_RUNT>Curva ABC</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>597</ID>
+    <NOM_PROJ>RelCurvaAbcProdutoGrade</NOM_PROJ>
+    <NOM_RUNT>Curva ABC [Produtos Tamanho] </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>598</ID>
+    <NOM_PROJ>RelFatCFO</NOM_PROJ>
+    <NOM_RUNT>Relat�rio de Faturamento por CFOP</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>599</ID>
+    <NOM_PROJ>RelFaturamento</NOM_PROJ>
+    <NOM_RUNT>Relat�rio de Faturamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>600</ID>
+    <NOM_PROJ>RelFaturamentoRef</NOM_PROJ>
+    <NOM_RUNT>Relatório de Faturamento por Referência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>601</ID>
+    <NOM_PROJ>RelFaturamentoSerie</NOM_PROJ>
+    <NOM_RUNT>Relatório de Faturamento por Série</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>602</ID>
+    <NOM_PROJ>RelLocRefPed</NOM_PROJ>
+    <NOM_RUNT>Localiza Referência nos Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>603</ID>
+    <NOM_PROJ>relMargemVendedor</NOM_PROJ>
+    <NOM_RUNT>Margem de Vendas </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>604</ID>
+    <NOM_PROJ>RelMotivosCancelamento</NOM_PROJ>
+    <NOM_RUNT>Relatório de Motivos de Cancelamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>605</ID>
+    <NOM_PROJ>RelNFSRef</NOM_PROJ>
+    <NOM_RUNT>Relatório de Nota Fiscal de Saída - Referência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>606</ID>
+    <NOM_PROJ>RelPedido</NOM_PROJ>
+    <NOM_RUNT>Relatório de Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>607</ID>
+    <NOM_PROJ>RelPedidoRef</NOM_PROJ>
+    <NOM_RUNT>Pedidos por Referência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>608</ID>
+    <NOM_PROJ>RelPedSeparacao</NOM_PROJ>
+    <NOM_RUNT>Separação de Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>609</ID>
+    <NOM_PROJ>RelTabPreco</NOM_PROJ>
+    <NOM_RUNT>Cópia de Tabela de Preços</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>610</ID>
+    <NOM_PROJ>RelTabPrecoComp</NOM_PROJ>
+    <NOM_RUNT>Cópia de Tabela de Preços [Comparativo]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>611</ID>
+    <NOM_PROJ>RelTabPrecoCompFaixa</NOM_PROJ>
+    <NOM_RUNT>Cópia de Tabela de Preços [Faixa]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>612</ID>
+    <NOM_PROJ>RelTabPrecoCompPeriodo</NOM_PROJ>
+    <NOM_RUNT>Tabela de Preços Período [Comparativo]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>613</ID>
+    <NOM_PROJ>RelTabPrecoPeriodo</NOM_PROJ>
+    <NOM_RUNT>Cópia de Tabela de Preços[Período]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>614</ID>
+    <NOM_PROJ>RelVendasHora</NOM_PROJ>
+    <NOM_RUNT>Vendas Por Hora - Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>615</ID>
+    <NOM_PROJ>RelVendasPeriodo</NOM_PROJ>
+    <NOM_RUNT>Vendas Por Período - Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>616</ID>
+    <NOM_PROJ>relvendasperiodomix</NOM_PROJ>
+    <NOM_RUNT>Vendas Por Período Mix</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>617</ID>
+    <NOM_PROJ>RelVendasPeriodoRep</NOM_PROJ>
+    <NOM_RUNT>Vendas Por Período - Representante</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>618</ID>
+    <NOM_PROJ>RelVendasRep</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento de Vendas por Representante</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>619</ID>
+    <NOM_PROJ>ucItemVenda</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>620</ID>
+    <NOM_PROJ>ucProdutoVenda</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>621</ID>
+    <NOM_PROJ>FrmGraEficienciaHora</NOM_PROJ>
+    <NOM_RUNT>Gráfico de Eficiência Por Hora[Fabrica]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>622</ID>
+    <NOM_PROJ>FrmGraEficienciaHora[Operador]</NOM_PROJ>
+    <NOM_RUNT>Gráfico de Eficiência Por Hora[Operador]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>623</ID>
+    <NOM_PROJ>FrmGraEficienciaMaquinaXoperado</NOM_PROJ>
+    <NOM_RUNT>Gráfico Eficiência Máquina X Operador</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>624</ID>
+    <NOM_PROJ>FrmGraEvolucaoProdutividade</NOM_PROJ>
+    <NOM_RUNT>Gráfico de Evolução de Produtividade</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>625</ID>
+    <NOM_PROJ>FrmGraHoraParadaPeriodo</NOM_PROJ>
+    <NOM_RUNT>Horas Paradas Operador</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>626</ID>
+    <NOM_PROJ>FrmGraHoraParadaPeriodo[fabirca]</NOM_PROJ>
+    <NOM_RUNT>Horas Paradas Fábrica</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>627</ID>
+    <NOM_PROJ>FrmGraOperacoes</NOM_PROJ>
+    <NOM_RUNT>Gráfico de Operações</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>628</ID>
+    <NOM_PROJ>FrmGraProducaoXprodutividade</NOM_PROJ>
+    <NOM_RUNT>Gráfico de Produção x Produtividade</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>629</ID>
+    <NOM_PROJ>FrmGraTempoImprodutivo</NOM_PROJ>
+    <NOM_RUNT>Gráfico de Tempo de Improdutivo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>630</ID>
+    <NOM_PROJ>Frm12Avos</NOM_PROJ>
+    <NOM_RUNT>Comissões 1/12 Avos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>631</ID>
+    <NOM_PROJ>FrmAbreFechaConta</NOM_PROJ>
+    <NOM_RUNT>Abertura / Fechamento das Contas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>632</ID>
+    <NOM_PROJ>FrmAddRecursosCx</NOM_PROJ>
+    <NOM_RUNT>Adicionar Recursos na Conta / Caixa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>633</ID>
+    <NOM_PROJ>FrmAdiantamentoComissao</NOM_PROJ>
+    <NOM_RUNT>Gerar Adiantamento de Comissão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>634</ID>
+    <NOM_PROJ>FrmAdiantComissao1</NOM_PROJ>
+    <NOM_RUNT>Adiantamento de Comissões</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>635</ID>
+    <NOM_PROJ>FrmAlteraContaPgar</NOM_PROJ>
+    <NOM_RUNT>Agendamento de Pagamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>636</ID>
+    <NOM_PROJ>FrmAnaliseResultado</NOM_PROJ>
+    <NOM_RUNT>Análise de Resultado</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>637</ID>
+    <NOM_PROJ>FrmApropriacaoContasPagar</NOM_PROJ>
+    <NOM_RUNT>Apropriação de Contas a Pagar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>638</ID>
+    <NOM_PROJ>FrmApropriacaoContasReceber</NOM_PROJ>
+    <NOM_RUNT>Apropriação de Contas a Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>639</ID>
+    <NOM_PROJ>FrmApropriarReceber</NOM_PROJ>
+    <NOM_RUNT>Apropriação de Contas a Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>640</ID>
+    <NOM_PROJ>FrmAuditarNFE</NOM_PROJ>
+    <NOM_RUNT>Auditoria de NFE vs Financeiro</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>641</ID>
+    <NOM_PROJ>FrmAuditoriaRecDesp</NOM_PROJ>
+    <NOM_RUNT>Auditoria de Receitas e Despesas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>642</ID>
+    <NOM_PROJ>FrmCadCentroCusto</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Centro de Custos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>643</ID>
+    <NOM_PROJ>FrmCadContasAPagar</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Contas a Pagar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>644</ID>
+    <NOM_PROJ>FrmCadContasAReceber</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Contas a Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>645</ID>
+    <NOM_PROJ>FrmCadEstagioPagar</NOM_PROJ>
+    <NOM_RUNT>Estágio Pagar / Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>646</ID>
+    <NOM_PROJ>FrmCadHistorico</NOM_PROJ>
+    <NOM_RUNT>Histórico Padrão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>647</ID>
+    <NOM_PROJ>FrmCadIndices</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Índices</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>648</ID>
+    <NOM_PROJ>FrmCadNewCentroCustos</NOM_PROJ>
+    <NOM_RUNT>Inserir Centro de Custos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>649</ID>
+    <NOM_PROJ>FrmCadNewRecDesp</NOM_PROJ>
+    <NOM_RUNT>Inserir Receita</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>650</ID>
+    <NOM_PROJ>FrmCadNewTipoMovimentacao</NOM_PROJ>
+    <NOM_RUNT>Cadastro Tipo de Movimento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>651</ID>
+    <NOM_PROJ>FrmCadRateioPadrao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Rateio Padrão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>652</ID>
+    <NOM_PROJ>FrmCadRecDesp</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Receitas / Despesas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>653</ID>
+    <NOM_PROJ>FrmCadReceberInf</NOM_PROJ>
+    <NOM_RUNT>Informações Internas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>654</ID>
+    <NOM_PROJ>FrmCadTipoIndice</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tipo de Índices</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>655</ID>
+    <NOM_PROJ>FrmCadTipoIndice2</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tipo de Indece 2</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>656</ID>
+    <NOM_PROJ>FrmCadTipoMovimentacao</NOM_PROJ>
+    <NOM_RUNT>Tipo Movimentação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>657</ID>
+    <NOM_PROJ>FrmCadTipoPosCobranca</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tipo de Posição de Cobrança</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>658</ID>
+    <NOM_PROJ>FrmChqTerceiroRecebimento</NOM_PROJ>
+    <NOM_RUNT>Cheque de Terceiro</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>659</ID>
+    <NOM_PROJ>FrmComissoes</NOM_PROJ>
+    <NOM_RUNT>Comissões</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>660</ID>
+    <NOM_PROJ>frmConcBancaria</NOM_PROJ>
+    <NOM_RUNT>Conciliação Bancária [Assistente]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>661</ID>
+    <NOM_PROJ>frmContaRegistros</NOM_PROJ>
+    <NOM_RUNT>Registros de Informações na Conta</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>662</ID>
+    <NOM_PROJ>FrmControleCartao</NOM_PROJ>
+    <NOM_RUNT>Controle de Cartões</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>663</ID>
+    <NOM_PROJ>FrmCruzaEntreContas</NOM_PROJ>
+    <NOM_RUNT>Cruzamento Entre Contas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>664</ID>
+    <NOM_PROJ>FrmDescComicao</NOM_PROJ>
+    <NOM_RUNT>Desconto de Comissão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>665</ID>
+    <NOM_PROJ>FrmDFinan</NOM_PROJ>
+    <NOM_RUNT>Dados Financeiros [VISA]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>666</ID>
+    <NOM_PROJ>FrmEstDemRes</NOM_PROJ>
+    <NOM_RUNT>Estrutura do Demonstrativo de Resultados</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>667</ID>
+    <NOM_PROJ>FrmEstornoCruzaEntreContas</NOM_PROJ>
+    <NOM_RUNT>Estorno de Cruzamento Entre Contas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>668</ID>
+    <NOM_PROJ>FrmEstornoPgtoComis</NOM_PROJ>
+    <NOM_RUNT>Estorno de Pagamento de Comissão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>669</ID>
+    <NOM_PROJ>FrmExibirCliente</NOM_PROJ>
+    <NOM_RUNT>Informações do Cliente / Grupo Empresarial</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>670</ID>
+    <NOM_PROJ>FrmExibirInfoInternaReceber</NOM_PROJ>
+    <NOM_RUNT>Informações Internas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>671</ID>
+    <NOM_PROJ>FrmExportaInstFinanceira</NOM_PROJ>
+    <NOM_RUNT>Instituição Financeira - Exportação/Importação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>672</ID>
+    <NOM_PROJ>frmExportarFavorecido</NOM_PROJ>
+    <NOM_RUNT>Exportação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>673</ID>
+    <NOM_PROJ>FrmExtratoCaixa</NOM_PROJ>
+    <NOM_RUNT>Extrato das Contas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>674</ID>
+    <NOM_PROJ>frmfechacaixa</NOM_PROJ>
+    <NOM_RUNT>Fechamento de Caixa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>675</ID>
+    <NOM_PROJ>FrmFechamento</NOM_PROJ>
+    <NOM_RUNT>Fechamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>676</ID>
+    <NOM_PROJ>FrmFechamentoCaixaCego</NOM_PROJ>
+    <NOM_RUNT>Fechamento de Caixa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>677</ID>
+    <NOM_PROJ>frmFinalizarFolha</NOM_PROJ>
+    <NOM_RUNT>Finalizar Folha</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>678</ID>
+    <NOM_PROJ>FrmFinContaaLancChequeTer</NOM_PROJ>
+    <NOM_RUNT>Cheque de Terceiro</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>679</ID>
+    <NOM_PROJ>FrmFinConTalancAnexos</NOM_PROJ>
+    <NOM_RUNT>Editar Anexo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>680</ID>
+    <NOM_PROJ>FrmFinPagarAnexos</NOM_PROJ>
+    <NOM_RUNT>Editar Anexo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>681</ID>
+    <NOM_PROJ>FrmFinPlanRecDesp</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Planejamento Financeiro</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>682</ID>
+    <NOM_PROJ>FrmFolhaPagamento</NOM_PROJ>
+    <NOM_RUNT>Folha de Pagamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>683</ID>
+    <NOM_PROJ>FrmFolhaPagto</NOM_PROJ>
+    <NOM_RUNT>Lançamento de Pagamentos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>684</ID>
+    <NOM_PROJ>FrmFolhaRebto</NOM_PROJ>
+    <NOM_RUNT>Lançamento de Contas a Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>685</ID>
+    <NOM_PROJ>FrmFolhaRecDesp</NOM_PROJ>
+    <NOM_RUNT>Configuração de Despesas Folha de Pagamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>686</ID>
+    <NOM_PROJ>FrmGeraComissaoReceber</NOM_PROJ>
+    <NOM_RUNT>Gerar Comissão por Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>687</ID>
+    <NOM_PROJ>FrmGerarBoletos</NOM_PROJ>
+    <NOM_RUNT>Gerar Boletos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>688</ID>
+    <NOM_PROJ>FrmGerarBoletos2</NOM_PROJ>
+    <NOM_RUNT>Gerar Boletos [Novo]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>689</ID>
+    <NOM_PROJ>frmHistoricoCobr</NOM_PROJ>
+    <NOM_RUNT>Histórico  de Cobrança</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>690</ID>
+    <NOM_PROJ>FrmIdentificaoLancamento</NOM_PROJ>
+    <NOM_RUNT>Identificação de Lancamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>691</ID>
+    <NOM_PROJ>FrmIdentificaoPagamento</NOM_PROJ>
+    <NOM_RUNT>Identificação de Pagamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>692</ID>
+    <NOM_PROJ>FrmIdentificaoRecebimento</NOM_PROJ>
+    <NOM_RUNT>Identificação de Recebimento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>693</ID>
+    <NOM_PROJ>FrmImportarRecbPgto</NOM_PROJ>
+    <NOM_RUNT>Importar Recebimentos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>694</ID>
+    <NOM_PROJ>FrmInadimplencia</NOM_PROJ>
+    <NOM_RUNT>Indice de Inadimplência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>695</ID>
+    <NOM_PROJ>frmInadimplenciaEvolucao</NOM_PROJ>
+    <NOM_RUNT>Inadimplência Evolução</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>696</ID>
+    <NOM_PROJ>FrmIndiceLiquidez</NOM_PROJ>
+    <NOM_RUNT>Indice Liquidez</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>697</ID>
+    <NOM_PROJ>FrmManutencaoContasAPagar</NOM_PROJ>
+    <NOM_RUNT>Manutenção de Contas a Pagar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>698</ID>
+    <NOM_PROJ>FrmManutencaoParcela</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>699</ID>
+    <NOM_PROJ>frmNegFinam</NOM_PROJ>
+    <NOM_RUNT>Renegociação Financeira [Contas a Receber]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>700</ID>
+    <NOM_PROJ>frmNegFinamPagar</NOM_PROJ>
+    <NOM_RUNT>Renegociação Financeira [Contas a Pagar]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>701</ID>
+    <NOM_PROJ>FrmNewParcRec</NOM_PROJ>
+    <NOM_RUNT>Nova Parcela de Contas a Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>702</ID>
+    <NOM_PROJ>FrmPagBaixaParcela</NOM_PROJ>
+    <NOM_RUNT>Baixa de Contas a Pagar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>703</ID>
+    <NOM_PROJ>FrmPagEntrada</NOM_PROJ>
+    <NOM_RUNT>Entrada de Contas a Pagar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>704</ID>
+    <NOM_PROJ>FrmParcContasReceber</NOM_PROJ>
+    <NOM_RUNT>Parcelamento [Contas a Receber]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>705</ID>
+    <NOM_PROJ>frmPercComisProduto</NOM_PROJ>
+    <NOM_RUNT>Comissão Item Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>706</ID>
+    <NOM_PROJ>FrmPesqAdiaComis</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Adiantamento de Comissão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>707</ID>
+    <NOM_PROJ>FrmPesqConsolidadaFinan</NOM_PROJ>
+    <NOM_RUNT>Pesquisa Consolidada Financeira</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>708</ID>
+    <NOM_PROJ>FrmPesqContasAPagar</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Contas a Pagar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>709</ID>
+    <NOM_PROJ>FrmPesqContasAPagarLog</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Alteração de Contas a Pagar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>710</ID>
+    <NOM_PROJ>FrmPesqContasAReceber</NOM_PROJ>
+    <NOM_RUNT>Localizar Contas a Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>711</ID>
+    <NOM_PROJ>FrmPesqContasAReceberLog</NOM_PROJ>
+    <NOM_RUNT>Alterações de Contas a Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>712</ID>
+    <NOM_PROJ>FrmPesqFinPlanRecDesp</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Planejamento Financeiro</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>713</ID>
+    <NOM_PROJ>FrmPesqPosCobranca</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Posição de Cobrança</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>714</ID>
+    <NOM_PROJ>FrmPesqRecibo</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Recibos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>715</ID>
+    <NOM_PROJ>FrmPosCobranca</NOM_PROJ>
+    <NOM_RUNT>Definição de Posição de Cobrança</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>716</ID>
+    <NOM_PROJ>FrmRecBaixaParcela</NOM_PROJ>
+    <NOM_RUNT>Baixa de Contas a Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>717</ID>
+    <NOM_PROJ>frmRecebtoCaixa</NOM_PROJ>
+    <NOM_RUNT>Recebimento no Caixa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>718</ID>
+    <NOM_PROJ>FrmRecebtoPagto</NOM_PROJ>
+    <NOM_RUNT>Recebimento / Pagamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>719</ID>
+    <NOM_PROJ>FrmRecEntrada</NOM_PROJ>
+    <NOM_RUNT>Entrada de Contas a Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>720</ID>
+    <NOM_PROJ>FrmRecEntradaAdiantamento</NOM_PROJ>
+    <NOM_RUNT>Entrada de Contas a Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>721</ID>
+    <NOM_PROJ>frmRecibo</NOM_PROJ>
+    <NOM_RUNT>Recibo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>722</ID>
+    <NOM_PROJ>FrmRelAnaliseRecebimento</NOM_PROJ>
+    <NOM_RUNT>Análise de Cobrança x Recebimento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>723</ID>
+    <NOM_PROJ>FrmRelCaixa</NOM_PROJ>
+    <NOM_RUNT>Relatório Fechamento de Caixa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>724</ID>
+    <NOM_PROJ>FrmRelCaxaCego</NOM_PROJ>
+    <NOM_RUNT>Relatório de Fechamento de Caixa - CEGO</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>725</ID>
+    <NOM_PROJ>FrmRelCbr</NOM_PROJ>
+    <NOM_RUNT>Cobrança</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>726</ID>
+    <NOM_PROJ>FrmRelCruzamentoEntreContas</NOM_PROJ>
+    <NOM_RUNT>Relatório de Cruzamento Entre Contas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>727</ID>
+    <NOM_PROJ>FrmRelDespBancaria</NOM_PROJ>
+    <NOM_RUNT>Relatório Despesas Bancárias</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>728</ID>
+    <NOM_PROJ>FrmRelDossieCliente</NOM_PROJ>
+    <NOM_RUNT>Relatório de Dossiê de Cliente</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>729</ID>
+    <NOM_PROJ>FrmRelExtrato</NOM_PROJ>
+    <NOM_RUNT>Extrato de Cliente / Fornecedor</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>730</ID>
+    <NOM_PROJ>frmRelPagamentoComCheque</NOM_PROJ>
+    <NOM_RUNT>Pagamentos com Cheque</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>731</ID>
+    <NOM_PROJ>FrmRelPosCobranca</NOM_PROJ>
+    <NOM_RUNT>Relatório de Posição de Cobrança - Mes/Ano</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>732</ID>
+    <NOM_PROJ>FrmRelRecDespPlanoContas</NOM_PROJ>
+    <NOM_RUNT>Relatório de Receitas e Despesas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>733</ID>
+    <NOM_PROJ>FrmRemessaReceber</NOM_PROJ>
+    <NOM_RUNT>Remessa Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>734</ID>
+    <NOM_PROJ>FrmRenParcela</NOM_PROJ>
+    <NOM_RUNT>Reegociar Parcela</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>735</ID>
+    <NOM_PROJ>frmRetornoBanco</NOM_PROJ>
+    <NOM_RUNT>Retorno de Remessa Bancária</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>736</ID>
+    <NOM_PROJ>frmRetornoBanco2</NOM_PROJ>
+    <NOM_RUNT>Retorno de Remessa Bancária [Novo]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>737</ID>
+    <NOM_PROJ>frmRetornoBancoCart</NOM_PROJ>
+    <NOM_RUNT>Retorno de Remessa Bancária - Multi Carteiras</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>738</ID>
+    <NOM_PROJ>FrmSISPAG</NOM_PROJ>
+    <NOM_RUNT>FrmSISPAG</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>739</ID>
+    <NOM_PROJ>FrmTalaoChq</NOM_PROJ>
+    <NOM_RUNT>Cheques</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>740</ID>
+    <NOM_PROJ>FrmTalaoChqEmpresa</NOM_PROJ>
+    <NOM_RUNT>Cheques</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>741</ID>
+    <NOM_PROJ>frmTaxasDespesasBancarias</NOM_PROJ>
+    <NOM_RUNT>Taxas Despesas Bancarias</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>742</ID>
+    <NOM_PROJ>PesqFolhaPagamento</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Folha de Pagamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>743</ID>
+    <NOM_PROJ>RelAltMovimentacoes</NOM_PROJ>
+    <NOM_RUNT>Alterações de Movimentações</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>744</ID>
+    <NOM_PROJ>RelAuditRecDesp</NOM_PROJ>
+    <NOM_RUNT>Evolução das Despesas - Planejamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>745</ID>
+    <NOM_PROJ>RelContasPagar</NOM_PROJ>
+    <NOM_RUNT>Contas a Pagar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>746</ID>
+    <NOM_PROJ>RelContasPagarEvolucao</NOM_PROJ>
+    <NOM_RUNT>Contas Pagar [Evolução]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>747</ID>
+    <NOM_PROJ>RelContasReceber</NOM_PROJ>
+    <NOM_RUNT>Contas Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>748</ID>
+    <NOM_PROJ>RelContasReceberEvolucao</NOM_PROJ>
+    <NOM_RUNT>Contas Receber [Evolução]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>749</ID>
+    <NOM_PROJ>RelExpDemonstrativo</NOM_PROJ>
+    <NOM_RUNT>Exportação para o Demonstrativo de Resultados</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>750</ID>
+    <NOM_PROJ>RelExtrato</NOM_PROJ>
+    <NOM_RUNT>Importar Extrato de Conta Corrente</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>751</ID>
+    <NOM_PROJ>RelFluxoCaixa</NOM_PROJ>
+    <NOM_RUNT>Fluxo Caixa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>752</ID>
+    <NOM_PROJ>RelMovCaixa</NOM_PROJ>
+    <NOM_RUNT>Movimento de Caixa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>753</ID>
+    <NOM_PROJ>RelPlanejFin</NOM_PROJ>
+    <NOM_RUNT>Planejamento Financeiro</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>754</ID>
+    <NOM_PROJ>RelPosCobranca</NOM_PROJ>
+    <NOM_RUNT>Relatório de Posição de Cobrança</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>755</ID>
+    <NOM_PROJ>RelRecDesp</NOM_PROJ>
+    <NOM_RUNT>Relatório de Receitas e Despesas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>756</ID>
+    <NOM_PROJ>RelRecDespCC</NOM_PROJ>
+    <NOM_RUNT>Relatório de Receitas e Despesas [Centro de Custo]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>757</ID>
+    <NOM_PROJ>FrmCadInventario</NOM_PROJ>
+    <NOM_RUNT>Abertura de Inventário</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>758</ID>
+    <NOM_PROJ>FrmCadInventarioItem</NOM_PROJ>
+    <NOM_RUNT>Inventário de Estoque</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>759</ID>
+    <NOM_PROJ>FrmGeraIventario</NOM_PROJ>
+    <NOM_RUNT>Gerar Inventário Por Filial</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>760</ID>
+    <NOM_PROJ>FrmGeraNovoDeposito</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>761</ID>
+    <NOM_PROJ>FrmInventarioConferencia</NOM_PROJ>
+    <NOM_RUNT>Conferência de Inventário</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>762</ID>
+    <NOM_PROJ>FrmValorizacaoInventario</NOM_PROJ>
+    <NOM_RUNT>Valorização de Inventário</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>763</ID>
+    <NOM_PROJ>RelConfEstoque</NOM_PROJ>
+    <NOM_RUNT>Ficha para Conferência de Estoque</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>764</ID>
+    <NOM_PROJ>xrConfEstoque</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>765</ID>
+    <NOM_PROJ>FrmDashBordLauncher</NOM_PROJ>
+    <NOM_RUNT>Gerador de DashBoards</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>766</ID>
+    <NOM_PROJ>FrmEmailConfigBasico</NOM_PROJ>
+    <NOM_RUNT>Dados do Email</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>767</ID>
+    <NOM_PROJ>FrmEmailParametro</NOM_PROJ>
+    <NOM_RUNT>E-Mail Parâmetros</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>768</ID>
+    <NOM_PROJ>FrmFiltroRelatorio</NOM_PROJ>
+    <NOM_RUNT>Filtros</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>769</ID>
+    <NOM_PROJ>FrmFiltrosRelatorio</NOM_PROJ>
+    <NOM_RUNT>Filtros</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>770</ID>
+    <NOM_PROJ>FrmImpDadosExternos</NOM_PROJ>
+    <NOM_RUNT>Importar Dados Externos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>771</ID>
+    <NOM_PROJ>FrmImpPedidosExterno</NOM_PROJ>
+    <NOM_RUNT>Importar Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>772</ID>
+    <NOM_PROJ>FrmIntegracaoCatalago</NOM_PROJ>
+    <NOM_RUNT>Integração Catálogo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>773</ID>
+    <NOM_PROJ>FrmIntegracaoVetx</NOM_PROJ>
+    <NOM_RUNT>Integração VETX</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>774</ID>
+    <NOM_PROJ>FrmIntegrarLojaVirtual</NOM_PROJ>
+    <NOM_RUNT>Integração loja Virtual</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>775</ID>
+    <NOM_PROJ>FrmNewRel</NOM_PROJ>
+    <NOM_RUNT>Novo Relatório</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>776</ID>
+    <NOM_PROJ>FrmPanelRepres</NOM_PROJ>
+    <NOM_RUNT>Painel de Controle Vision</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>777</ID>
+    <NOM_PROJ>FrmParametros</NOM_PROJ>
+    <NOM_RUNT>Parâmetros</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>778</ID>
+    <NOM_PROJ>FrmPedFatSemReceber</NOM_PROJ>
+    <NOM_RUNT>Relatório de Contas a Receber Sem Vínculo com Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>779</ID>
+    <NOM_PROJ>FrmPesqContasAReceberExterno</NOM_PROJ>
+    <NOM_RUNT>Importar Dados Externos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>780</ID>
+    <NOM_PROJ>FrmRelRelatorio</NOM_PROJ>
+    <NOM_RUNT>Gerador de Relatórios</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>781</ID>
+    <NOM_PROJ>FrmTrataImage</NOM_PROJ>
+    <NOM_RUNT>Tratamento de Imagens</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>782</ID>
+    <NOM_PROJ>FrmTratarCodBarra</NOM_PROJ>
+    <NOM_RUNT>Tratamento de Codigo de Barras</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>783</ID>
+    <NOM_PROJ>FrmViewLOG</NOM_PROJ>
+    <NOM_RUNT>Visualizador de LOG</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>784</ID>
+    <NOM_PROJ>FrmAcompCorte</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento de Solicitação de Corte</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>785</ID>
+    <NOM_PROJ>FrmAcompCortePedLote</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento de Corte Com Previsão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>786</ID>
+    <NOM_PROJ>FrmAcompCortTotal</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento de Corte Com Total</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>787</ID>
+    <NOM_PROJ>FrmAcompProducao</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento de Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>788</ID>
+    <NOM_PROJ>FrmAgenteControlado</NOM_PROJ>
+    <NOM_RUNT>Agente Controlado</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>789</ID>
+    <NOM_PROJ>FrmAnaliseCorte</NOM_PROJ>
+    <NOM_RUNT>Análise de Corte</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>790</ID>
+    <NOM_PROJ>FrmApuracaoConsumo</NOM_PROJ>
+    <NOM_RUNT>Apuração de Consumo [Estoque Minimo]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>791</ID>
+    <NOM_PROJ>FrmApurarCusto</NOM_PROJ>
+    <NOM_RUNT>Apuração de Custos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>792</ID>
+    <NOM_PROJ>FrmBaixarRequisicao</NOM_PROJ>
+    <NOM_RUNT>Requisição</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>793</ID>
+    <NOM_PROJ>FrmBaixaTransferencia</NOM_PROJ>
+    <NOM_RUNT>Baixa de Transferência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>794</ID>
+    <NOM_PROJ>FrmCadCargaHoraria</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Carga Horária</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>795</ID>
+    <NOM_PROJ>FrmCadCelulas</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Células</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>796</ID>
+    <NOM_PROJ>FrmCadColecaoMeta</NOM_PROJ>
+    <NOM_RUNT>Cadastro Controle de Metas por Coleção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>797</ID>
+    <NOM_PROJ>FrmCadDesdesa</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Despesa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>798</ID>
+    <NOM_PROJ>FrmCadDetalhe</NOM_PROJ>
+    <NOM_RUNT>Detalhes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>799</ID>
+    <NOM_PROJ>FrmCadEncargos</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Encargos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>800</ID>
+    <NOM_PROJ>FrmCadEquipe</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Equipe</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>801</ID>
+    <NOM_PROJ>FrmCadEstagioProducao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Estágio de Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>802</ID>
+    <NOM_PROJ>FrmCadFasesProducao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Fases de Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>803</ID>
+    <NOM_PROJ>FrmCadGrupoDetalhe</NOM_PROJ>
+    <NOM_RUNT>Grupo de Detalhes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>804</ID>
+    <NOM_PROJ>FrmCadHorasParadas</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Horas Paradas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>805</ID>
+    <NOM_PROJ>FrmCadLocalizacao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Localização</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>806</ID>
+    <NOM_PROJ>FrmCadMaquina</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Maquinas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>807</ID>
+    <NOM_PROJ>FrmCadMinutosParadas</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tempo Parado</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>808</ID>
+    <NOM_PROJ>FrmCadOcorrencia</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Ocorrências</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>809</ID>
+    <NOM_PROJ>FrmCadOperacao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Operação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>810</ID>
+    <NOM_PROJ>FrmCadOperador</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Operadores</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>811</ID>
+    <NOM_PROJ>FrmCadPcpColecaoSemanasVenda</NOM_PROJ>
+    <NOM_RUNT>Cadastro Controle de Metas por Semanas de Venda</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>812</ID>
+    <NOM_PROJ>FrmCadPcpOrcamentoCusto</NOM_PROJ>
+    <NOM_RUNT>Orçamento Custo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>813</ID>
+    <NOM_PROJ>FrmCadPcpTurnos</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Turnos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>814</ID>
+    <NOM_PROJ>FrmCadPeso</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Peso</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>815</ID>
+    <NOM_PROJ>frmCadRolo</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Rolo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>816</ID>
+    <NOM_PROJ>FrmCadTipoMaquina</NOM_PROJ>
+    <NOM_RUNT>Tipo de Maquinas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>817</ID>
+    <NOM_PROJ>FrmCadTipoTransferencia</NOM_PROJ>
+    <NOM_RUNT>Cadastro Tipo de Transferência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>818</ID>
+    <NOM_PROJ>FrmCadTransferenciaOcorrencia</NOM_PROJ>
+    <NOM_RUNT>Transferência de Ocorrência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>819</ID>
+    <NOM_PROJ>FrmCadTransfOcorrencias</NOM_PROJ>
+    <NOM_RUNT>Ocorrências da Tranferência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>820</ID>
+    <NOM_PROJ>FrmConfigTransf</NOM_PROJ>
+    <NOM_RUNT>Configuração de Transferência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>821</ID>
+    <NOM_PROJ>frmConfigXmlRelProd</NOM_PROJ>
+    <NOM_RUNT>Configurações</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>822</ID>
+    <NOM_PROJ>FrmConsumoTransferencia</NOM_PROJ>
+    <NOM_RUNT>Gerar Consumo por Transferência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>823</ID>
+    <NOM_PROJ>FrmCriarLayoutFichaTecnica</NOM_PROJ>
+    <NOM_RUNT>Layout de Etiqueta de Ficha Técnica</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>824</ID>
+    <NOM_PROJ>FrmCriarLayoutProducao</NOM_PROJ>
+    <NOM_RUNT>Layout de Etiqueta de Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>825</ID>
+    <NOM_PROJ>FrmCriarLayoutRequisicaoMateriais</NOM_PROJ>
+    <NOM_RUNT>Layout de Etiqueta de Requisição de Materiais</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>826</ID>
+    <NOM_PROJ>FrmCriarLayoutTransferencia</NOM_PROJ>
+    <NOM_RUNT>Layout de Etiqueta de Transferência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>827</ID>
+    <NOM_PROJ>FrmDistribuicaoCorte</NOM_PROJ>
+    <NOM_RUNT>Distribuição do Corte</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>828</ID>
+    <NOM_PROJ>FrmDistribuicaoCorteEdit</NOM_PROJ>
+    <NOM_RUNT>Editar a Distribuição do Corte</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>829</ID>
+    <NOM_PROJ>FrmDistribuicaoCorteExplosao</NOM_PROJ>
+    <NOM_RUNT>Distribuição do Corte</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>830</ID>
+    <NOM_PROJ>FrmEditCusto</NOM_PROJ>
+    <NOM_RUNT>Editar Custo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>831</ID>
+    <NOM_PROJ>FrmEditCustoItens</NOM_PROJ>
+    <NOM_RUNT>Editar Custo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>832</ID>
+    <NOM_PROJ>FrmEditProdCelulas</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>833</ID>
+    <NOM_PROJ>FrmEntradaExpedCodBarras</NOM_PROJ>
+    <NOM_RUNT>Entrada na Expedição [Código de Barras]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>834</ID>
+    <NOM_PROJ>FrmEntradaExpedNrSerie</NOM_PROJ>
+    <NOM_RUNT>Entrada na Expedição [Número de Série]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>835</ID>
+    <NOM_PROJ>FrmEnvRetTerceiros</NOM_PROJ>
+    <NOM_RUNT>Envio/Retorno de Terceiros</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>836</ID>
+    <NOM_PROJ>FrmExplosaoMateriais</NOM_PROJ>
+    <NOM_RUNT>Controle de O.P / Explosão de Materiais</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>837</ID>
+    <NOM_PROJ>FrmFichaComparativo</NOM_PROJ>
+    <NOM_RUNT>Ficha Técnica Comparativo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>838</ID>
+    <NOM_PROJ>FrmFichaSubstituto</NOM_PROJ>
+    <NOM_RUNT>Itens Substitutivos - Ficha Técnica</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>839</ID>
+    <NOM_PROJ>FrmFichaTecnica</NOM_PROJ>
+    <NOM_RUNT>Ficha Técnica</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>840</ID>
+    <NOM_PROJ>FrmGeraPedidoOrcamento</NOM_PROJ>
+    <NOM_RUNT>Gerar Pedido Por Orçamento de Custo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>841</ID>
+    <NOM_PROJ>FrmGerarCodBarras</NOM_PROJ>
+    <NOM_RUNT>Gerar N�mero de S�rie de Produ��o</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>842</ID>
+    <NOM_PROJ>FrmGerarFracaoCorte</NOM_PROJ>
+    <NOM_RUNT>Fracionar o Corte</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>843</ID>
+    <NOM_PROJ>FrmGerarNumOP</NOM_PROJ>
+    <NOM_RUNT>Gerar Número de Notas [Ordem de Produção]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>844</ID>
+    <NOM_PROJ>FrmGerarOP</NOM_PROJ>
+    <NOM_RUNT>Gerar Ordem de Produ��o</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>845</ID>
+    <NOM_PROJ>FrmItensRow</NOM_PROJ>
+    <NOM_RUNT>Referências do Rol</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>846</ID>
+    <NOM_PROJ>FrmItensServico</NOM_PROJ>
+    <NOM_RUNT>Itens Serviço</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>847</ID>
+    <NOM_PROJ>frmLancadorOP</NOM_PROJ>
+    <NOM_RUNT>Lançador de Ordem de Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>848</ID>
+    <NOM_PROJ>FrmLeituraOperacoes</NOM_PROJ>
+    <NOM_RUNT>Leitura de Operações</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>849</ID>
+    <NOM_PROJ>FrmLiberarCorte</NOM_PROJ>
+    <NOM_RUNT>Liberação de Corte [Previsão de Consumo]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>850</ID>
+    <NOM_PROJ>FrmNecessidadeProducao</NOM_PROJ>
+    <NOM_RUNT>Necessidade de Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>851</ID>
+    <NOM_PROJ>FrmNotaSaidaTransf</NOM_PROJ>
+    <NOM_RUNT>Nota Fiscal de Saida [Transferência]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>852</ID>
+    <NOM_PROJ>FrmPagFaccao</NOM_PROJ>
+    <NOM_RUNT>Pagamento das Facções [Nota Fiscal de Entrada]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>853</ID>
+    <NOM_PROJ>FrmPcpFechamentoCorte</NOM_PROJ>
+    <NOM_RUNT>Fechamento do Corte</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>854</ID>
+    <NOM_PROJ>FrmPesagem</NOM_PROJ>
+    <NOM_RUNT>Pesagem de Rolos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>855</ID>
+    <NOM_PROJ>FrmPesOrcamentoCusto</NOM_PROJ>
+    <NOM_RUNT>Orçamento Custo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>856</ID>
+    <NOM_PROJ>FrmPesqCelula</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Células</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>857</ID>
+    <NOM_PROJ>FrmPesqFichaTecnica</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Ficha Técnica</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>858</ID>
+    <NOM_PROJ>FrmPesqHorasParadas</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Horas Paradas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>859</ID>
+    <NOM_PROJ>FrmPesqMinutosParadas</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Tempo Parado</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>860</ID>
+    <NOM_PROJ>FrmPesqOrdemProducao</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Ordem Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>861</ID>
+    <NOM_PROJ>FrmPesqRequisicao</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Requisição</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>862</ID>
+    <NOM_PROJ>FrmPesqSaldoCelula</NOM_PROJ>
+    <NOM_RUNT>Saldo da Celula</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>863</ID>
+    <NOM_PROJ>FrmPesqTipoTransf</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Tipo de Tranferência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>864</ID>
+    <NOM_PROJ>FrmPesqTransferencia</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Transferência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>865</ID>
+    <NOM_PROJ>FrmPosicaoSetores</NOM_PROJ>
+    <NOM_RUNT>Posição das Referências Nos Setores</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>866</ID>
+    <NOM_PROJ>FrmPrintProperties</NOM_PROJ>
+    <NOM_RUNT>Propriedades de Impressão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>867</ID>
+    <NOM_PROJ>FrmPrintView</NOM_PROJ>
+    <NOM_RUNT>Etiqueta</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>868</ID>
+    <NOM_PROJ>FrmProducao</NOM_PROJ>
+    <NOM_RUNT>Ordem de Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>869</ID>
+    <NOM_PROJ>FrmProLocalizacao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Localização</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>870</ID>
+    <NOM_PROJ>FrmRelConsumoCentroDeCusto</NOM_PROJ>
+    <NOM_RUNT>Consumo por Centro de Custos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>871</ID>
+    <NOM_PROJ>FrmRelResultReferencia</NOM_PROJ>
+    <NOM_RUNT>Resultado por Referência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>872</ID>
+    <NOM_PROJ>FrmRendPorOP</NOM_PROJ>
+    <NOM_RUNT>Rendimento Por OP</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>873</ID>
+    <NOM_PROJ>FrmReqMateriais</NOM_PROJ>
+    <NOM_RUNT>Requisição de Materiais</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>874</ID>
+    <NOM_PROJ>FrmRetornoFaccao</NOM_PROJ>
+    <NOM_RUNT>Retorno de Facção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>875</ID>
+    <NOM_PROJ>FrmRetornoFaccaoRol</NOM_PROJ>
+    <NOM_RUNT>Retorno [ROL]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>876</ID>
+    <NOM_PROJ>FrmSolicitacaoVisita</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>877</ID>
+    <NOM_PROJ>FrmTabCustos</NOM_PROJ>
+    <NOM_RUNT>Ficha de Custos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>878</ID>
+    <NOM_PROJ>FrmTransferencia</NOM_PROJ>
+    <NOM_RUNT>Transferência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>879</ID>
+    <NOM_PROJ>FrmTransferenciaServicos</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>880</ID>
+    <NOM_PROJ>FrmTrocaTempCelulas</NOM_PROJ>
+    <NOM_RUNT>Alterar Tempo de Produção por Célula</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>881</ID>
+    <NOM_PROJ>relAcompProdPedidos</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento de Produção por Pedidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>882</ID>
+    <NOM_PROJ>RelConsumoOrcCusto</NOM_PROJ>
+    <NOM_RUNT>Consumo por Protótipo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>883</ID>
+    <NOM_PROJ>RelConsumoTecidos</NOM_PROJ>
+    <NOM_RUNT>Consumo de Tecidos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>884</ID>
+    <NOM_PROJ>RelCustoPrototipo</NOM_PROJ>
+    <NOM_RUNT>Custo de Protótipo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>885</ID>
+    <NOM_PROJ>relEficienciaOperador</NOM_PROJ>
+    <NOM_RUNT>Eficiência do Operador</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>886</ID>
+    <NOM_PROJ>RelEnvRetTerceiros</NOM_PROJ>
+    <NOM_RUNT>Controle de Terceiros</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>887</ID>
+    <NOM_PROJ>RelEnvRetTerceirosPeso</NOM_PROJ>
+    <NOM_RUNT>Controle de Terceiros [Peso]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>888</ID>
+    <NOM_PROJ>RelHorasParadas</NOM_PROJ>
+    <NOM_RUNT>Relatório de Horas Paradas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>889</ID>
+    <NOM_PROJ>RelMovTransf</NOM_PROJ>
+    <NOM_RUNT>Movimentação por Transferência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>890</ID>
+    <NOM_PROJ>RelNrSerieProducao</NOM_PROJ>
+    <NOM_RUNT>Rastrear Número de Série de Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>891</ID>
+    <NOM_PROJ>relOcorrencias</NOM_PROJ>
+    <NOM_RUNT>Análise de Ocorrência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>892</ID>
+    <NOM_PROJ>RelPrevConsumo</NOM_PROJ>
+    <NOM_RUNT>Relatório de Previsão de Consumo [Pedidos]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>893</ID>
+    <NOM_PROJ>RelPrevConsumoTransferencia</NOM_PROJ>
+    <NOM_RUNT>Relatório de Previsão de Consumo [Transferência]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>894</ID>
+    <NOM_PROJ>RelPrevEstOrdCorte</NOM_PROJ>
+    <NOM_RUNT>Estoque por Ordem de Corte</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>895</ID>
+    <NOM_PROJ>RelProdAgente</NOM_PROJ>
+    <NOM_RUNT>Relatório de Produção por Agente Controlado</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>896</ID>
+    <NOM_PROJ>RelProducao</NOM_PROJ>
+    <NOM_RUNT>Relatório de Produção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>897</ID>
+    <NOM_PROJ>RelTransferencia</NOM_PROJ>
+    <NOM_RUNT>Pesquisa Transfer�ncia</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>898</ID>
+    <NOM_PROJ>relTransfxFTec</NOM_PROJ>
+    <NOM_RUNT>Movimentação por Transferência x Ficha Técnica</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>899</ID>
+    <NOM_PROJ>FrmCaixaPDV</NOM_PROJ>
+    <NOM_RUNT>Caixa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>900</ID>
+    <NOM_PROJ>FrmConfigPDV</NOM_PROJ>
+    <NOM_RUNT>  Configuração PDV</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>901</ID>
+    <NOM_PROJ>FrmDevolProdutosPDV</NOM_PROJ>
+    <NOM_RUNT>Devoluçao de Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>902</ID>
+    <NOM_PROJ>FrmFinalizarVendaPDV</NOM_PROJ>
+    <NOM_RUNT>Finalizar Venda PDV</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>903</ID>
+    <NOM_PROJ>frmGetCpfCnpj</NOM_PROJ>
+    <NOM_RUNT>C.P.F Na Nota</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>904</ID>
+    <NOM_PROJ>FrmObsPDV</NOM_PROJ>
+    <NOM_RUNT>Observação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>905</ID>
+    <NOM_PROJ>FrmOperadorasCartaoPDV</NOM_PROJ>
+    <NOM_RUNT>Cartão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>906</ID>
+    <NOM_PROJ>FrmParcelaPDV</NOM_PROJ>
+    <NOM_RUNT>Parcela</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>907</ID>
+    <NOM_PROJ>FrmPDV</NOM_PROJ>
+    <NOM_RUNT>PDV-FELINE</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>908</ID>
+    <NOM_PROJ>FrmPDV_new</NOM_PROJ>
+    <NOM_RUNT>PDV-FELINE</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>909</ID>
+    <NOM_PROJ>FrmPesqPedidoPDV</NOM_PROJ>
+    <NOM_RUNT> Pesquisa de Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>910</ID>
+    <NOM_PROJ>FrmPreVendaVendaPDV</NOM_PROJ>
+    <NOM_RUNT>Pré-Venda PDV</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>911</ID>
+    <NOM_PROJ>FrmTipoImpNFE</NOM_PROJ>
+    <NOM_RUNT>Impressão Nota Fiscal</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>912</ID>
+    <NOM_PROJ>FrmTranspPDV</NOM_PROJ>
+    <NOM_RUNT>Frete</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>913</ID>
+    <NOM_PROJ>CadCriterio</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Critério</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>914</ID>
+    <NOM_PROJ>FrmAnexosProdutos</NOM_PROJ>
+    <NOM_RUNT>Anexos do Produto</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>915</ID>
+    <NOM_PROJ>FrmArvoreFicha</NOM_PROJ>
+    <NOM_RUNT>Árvore</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>916</ID>
+    <NOM_PROJ>FrmAtualizaCusto</NOM_PROJ>
+    <NOM_RUNT>Atualiza Custo Manual</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>917</ID>
+    <NOM_PROJ>FrmCadAgrupaPadrao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Agrupamento Padrão[Cores]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>918</ID>
+    <NOM_PROJ>FrmCadCodBarras</NOM_PROJ>
+    <NOM_RUNT>Código de Barras</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>919</ID>
+    <NOM_PROJ>FrmCadColecao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Coleção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>920</ID>
+    <NOM_PROJ>FrmCadComposicao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Composição</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>921</ID>
+    <NOM_PROJ>FrmCadDeposito</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Depósito</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>922</ID>
+    <NOM_PROJ>FrmCadEstilista</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Estilista</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>923</ID>
+    <NOM_PROJ>FrmCadGrade</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Grades</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>924</ID>
+    <NOM_PROJ>FrmCadGradeWeb</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Grades Web</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>925</ID>
+    <NOM_PROJ>FrmCadGrupo</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Grupo</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>926</ID>
+    <NOM_PROJ>FrmCadImagemProduto</NOM_PROJ>
+    <NOM_RUNT>Imagens dos Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>927</ID>
+    <NOM_PROJ>FrmCadIVA</NOM_PROJ>
+    <NOM_RUNT>Cadastro de I.V.A</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>928</ID>
+    <NOM_PROJ>FrmCadLinha</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Linha</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>929</ID>
+    <NOM_PROJ>FrmCadModelista</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Modelista</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>930</ID>
+    <NOM_PROJ>FrmCadNCM</NOM_PROJ>
+    <NOM_RUNT>Cadastro de NCM</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>931</ID>
+    <NOM_PROJ>FrmCadNCMImpostos</NOM_PROJ>
+    <NOM_RUNT>Cadastro Impostos por NCM</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>932</ID>
+    <NOM_PROJ>FrmCadPadrao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Padrão</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>933</ID>
+    <NOM_PROJ>FrmCadPerguntasServico</NOM_PROJ>
+    <NOM_RUNT>Perguntas Sobre Serviços</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>934</ID>
+    <NOM_PROJ>frmCadProCassProd</NOM_PROJ>
+    <NOM_RUNT>Classificação Fiscal</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>935</ID>
+    <NOM_PROJ>FrmCadProduto</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>936</ID>
+    <NOM_PROJ>FrmCadProdutoAviso</NOM_PROJ>
+    <NOM_RUNT>Me Avise Quando Chegar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>937</ID>
+    <NOM_PROJ>FrmCadProdutoExpresso</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Produto Simples</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>938</ID>
+    <NOM_PROJ>FrmCadProdutoKit</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Produto Kit</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>939</ID>
+    <NOM_PROJ>FrmCadProdutoRapido</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>940</ID>
+    <NOM_PROJ>FrmCadProdutoSimples</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Produto</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>941</ID>
+    <NOM_PROJ>FrmCadProFatConfig</NOM_PROJ>
+    <NOM_RUNT>Produtos x Configuração Faturamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>942</ID>
+    <NOM_PROJ>FrmCadProImpostoImbutido</NOM_PROJ>
+    <NOM_RUNT>Impostos Embutidos nos Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>943</ID>
+    <NOM_PROJ>FrmCadProImpostoImbutidoFrete</NOM_PROJ>
+    <NOM_RUNT>Frete por Região</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>944</ID>
+    <NOM_PROJ>FrmCadTamanhos</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tamanhos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>945</ID>
+    <NOM_PROJ>FrmCadTipoDeposito</NOM_PROJ>
+    <NOM_RUNT>Tipo de Depósito</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>946</ID>
+    <NOM_PROJ>FrmCadTipoProduto</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tipo de Produto</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>947</ID>
+    <NOM_PROJ>FrmCadUnidadeProduto</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Unidade</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>948</ID>
+    <NOM_PROJ>FrmContVendasPorPecas</NOM_PROJ>
+    <NOM_RUNT>Controle de Vendas por Peças</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>949</ID>
+    <NOM_PROJ>frmEstoquePorProduto</NOM_PROJ>
+    <NOM_RUNT>Consulta de Estoque</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>950</ID>
+    <NOM_PROJ>FrmFormacaoCustosPrecoVenda</NOM_PROJ>
+    <NOM_RUNT>Formação de Custos / Preço de Venda [Ficha Técnica]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>951</ID>
+    <NOM_PROJ>FrmGerarCodBarrasRef</NOM_PROJ>
+    <NOM_RUNT>Gerar Cód. Barras Referência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>952</ID>
+    <NOM_PROJ>FrmGetIventarios</NOM_PROJ>
+    <NOM_RUNT>Inventário</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>953</ID>
+    <NOM_PROJ>FrmIdiomasCampos</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>954</ID>
+    <NOM_PROJ>FrmImagens</NOM_PROJ>
+    <NOM_RUNT>Imagens Referencia :</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>955</ID>
+    <NOM_PROJ>FrmImagensWeb</NOM_PROJ>
+    <NOM_RUNT>Imagens dos Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>956</ID>
+    <NOM_PROJ>FrmManutencaoProduto</NOM_PROJ>
+    <NOM_RUNT>Manutenção de Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>957</ID>
+    <NOM_PROJ>FrmMarkup</NOM_PROJ>
+    <NOM_RUNT>Markup - Produto x Tabela de Preço</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>958</ID>
+    <NOM_PROJ>FrmPesqProduto</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>959</ID>
+    <NOM_PROJ>FrmPesqProdutoLog</NOM_PROJ>
+    <NOM_RUNT>Alterações de Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>960</ID>
+    <NOM_PROJ>FrmProCodFornecedor</NOM_PROJ>
+    <NOM_RUNT>Fornecedor:</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>961</ID>
+    <NOM_PROJ>FrmProdutoRap</NOM_PROJ>
+    <NOM_RUNT>Alteração Produto</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>962</ID>
+    <NOM_PROJ>FrmProdutoReferencia</NOM_PROJ>
+    <NOM_RUNT>Referência</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>963</ID>
+    <NOM_PROJ>FrmProdutoSimilar</NOM_PROJ>
+    <NOM_RUNT>Produtos Similares [Conjunto]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>964</ID>
+    <NOM_PROJ>FrmProdutoSite</NOM_PROJ>
+    <NOM_RUNT>Produto Site</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>965</ID>
+    <NOM_PROJ>FrmProProdutoItemLink</NOM_PROJ>
+    <NOM_RUNT>Produto Item Link</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>966</ID>
+    <NOM_PROJ>FrmSimilaridadeProduto</NOM_PROJ>
+    <NOM_RUNT>Similaridade de Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>967</ID>
+    <NOM_PROJ>RelCodBarra</NOM_PROJ>
+    <NOM_RUNT>Relatório de Código de Barras</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>968</ID>
+    <NOM_PROJ>RelProdEvolucaoCusto</NOM_PROJ>
+    <NOM_RUNT>Evolução Mensal de Custos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>969</ID>
+    <NOM_PROJ>RelRazaoProdutos</NOM_PROJ>
+    <NOM_RUNT>Raz�o De Produtos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>970</ID>
+    <NOM_PROJ>RelRazaoProdutosColecao</NOM_PROJ>
+    <NOM_RUNT>Estoque por Coleção</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>971</ID>
+    <NOM_PROJ>RelRazaoProdutosDeposito</NOM_PROJ>
+    <NOM_RUNT>Raz�o De Produtos [Dep�sito]</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>972</ID>
+    <NOM_PROJ>Resources</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>973</ID>
+    <NOM_PROJ>FrmAcessos</NOM_PROJ>
+    <NOM_RUNT>Acessos do Usuário</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>974</ID>
+    <NOM_PROJ>FrmAltSenha</NOM_PROJ>
+    <NOM_RUNT>Alterar Senha</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>975</ID>
+    <NOM_PROJ>FrmCadSegDepartamento</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Departamento </NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>976</ID>
+    <NOM_PROJ>FrmCadSegPerfil</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Perfil</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>977</ID>
+    <NOM_PROJ>FrmCadSegUser</NOM_PROJ>
+    <NOM_RUNT>Cadastro do Usuário</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>978</ID>
+    <NOM_PROJ>FrmLoggin</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>979</ID>
+    <NOM_PROJ>FrmPedeSenha</NOM_PROJ>
+    <NOM_RUNT>Solicitação de Acesso</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>980</ID>
+    <NOM_PROJ>FrmProxxy</NOM_PROJ>
+    <NOM_RUNT>Configurações de Proxy</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>981</ID>
+    <NOM_PROJ>FrmUserAcessos</NOM_PROJ>
+    <NOM_RUNT>Acessos do Usuário</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>982</ID>
+    <NOM_PROJ>FrmSMS</NOM_PROJ>
+    <NOM_RUNT>SMS</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>983</ID>
+    <NOM_PROJ>FrmCadDepartamento</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Departamento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>984</ID>
+    <NOM_PROJ>FrmCadModulos</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Módulos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>985</ID>
+    <NOM_PROJ>FrmCadPrioridade</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Prioridade</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>986</ID>
+    <NOM_PROJ>FrmCadSolicitacao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Solicitação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>987</ID>
+    <NOM_PROJ>FrmCadStatusSolicitacao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Status da Solicitação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>988</ID>
+    <NOM_PROJ>FrmCadTecnico</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Técnicos</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>989</ID>
+    <NOM_PROJ>FrmCadTipoAtendimento</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Tipo de Atendimento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>990</ID>
+    <NOM_PROJ>FrmCadTipoSolicitacao</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Solicitação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>991</ID>
+    <NOM_PROJ>FrmDetSolicitacao</NOM_PROJ>
+    <NOM_RUNT>Detalhes</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>992</ID>
+    <NOM_PROJ>FrmPesqSolicitacao</NOM_PROJ>
+    <NOM_RUNT>Pesquisa de Solicitação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>993</ID>
+    <NOM_PROJ>FrmResponderSolicitacao</NOM_PROJ>
+    <NOM_RUNT>Responder Solicitação</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>994</ID>
+    <NOM_PROJ>BrowserTabUserControl</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>995</ID>
+    <NOM_PROJ>DataRepeater</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>996</ID>
+    <NOM_PROJ>Editor</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>997</ID>
+    <NOM_PROJ>EditorForm</NOM_PROJ>
+    <NOM_RUNT>Editor de HTML</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>998</ID>
+    <NOM_PROJ>FelineForm</NOM_PROJ>
+    <NOM_RUNT>FelineForm</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>999</ID>
+    <NOM_PROJ>FrmAuthLinc</NOM_PROJ>
+    <NOM_RUNT>Ativação do Feline</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1000</ID>
+    <NOM_PROJ>FrmCadAcoes</NOM_PROJ>
+    <NOM_RUNT>Cadastro de Ações</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1001</ID>
+    <NOM_PROJ>FrmConfigPgMatricial</NOM_PROJ>
+    <NOM_RUNT>Configurado de Pagna Matrcial</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1002</ID>
+    <NOM_PROJ>FrmDBAdm</NOM_PROJ>
+    <NOM_RUNT>Database Administrador</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1003</ID>
+    <NOM_PROJ>FrmDiagramas</NOM_PROJ>
+    <NOM_RUNT>Diagramas</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1004</ID>
+    <NOM_PROJ>frmEditDoc</NOM_PROJ>
+    <NOM_RUNT>Editar Documento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1005</ID>
+    <NOM_PROJ>FrmIntegrador</NOM_PROJ>
+    <NOM_RUNT>Integrador</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1006</ID>
+    <NOM_PROJ>FrmLayoutCobranca</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1007</ID>
+    <NOM_PROJ>FrmLayoutMatricial</NOM_PROJ>
+    <NOM_RUNT>Editor de Layout - Matricial</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1008</ID>
+    <NOM_PROJ>FrmMagento</NOM_PROJ>
+    <NOM_RUNT>Integração Magento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1009</ID>
+    <NOM_PROJ>FrmNFEConfig</NOM_PROJ>
+    <NOM_RUNT>Configuração de Impressão Nota Fiscal Eletrônica</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1010</ID>
+    <NOM_PROJ>frmOpencart</NOM_PROJ>
+    <NOM_RUNT>Sincronização Opencart</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1011</ID>
+    <NOM_PROJ>FrmPedSemRec</NOM_PROJ>
+    <NOM_RUNT>Relatório de Pedidos Sem Vínculo com Contas a Receber</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1012</ID>
+    <NOM_PROJ>FrmRemoto</NOM_PROJ>
+    <NOM_RUNT>Acesso Remoto</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1013</ID>
+    <NOM_PROJ>FrmStatusPedCor</NOM_PROJ>
+    <NOM_RUNT>Configurador de Cor</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1014</ID>
+    <NOM_PROJ>frmSubDocumentDocx</NOM_PROJ>
+    <NOM_RUNT>Documentos de Texto</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1015</ID>
+    <NOM_PROJ>FrmTelaoMaps</NOM_PROJ>
+    <NOM_RUNT>Acompanhamento de Vendas por Coleção - GEO</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1016</ID>
+    <NOM_PROJ>frmWordpress</NOM_PROJ>
+    <NOM_RUNT>Sincronização WordPress</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1017</ID>
+    <NOM_PROJ>LinkDialog</NOM_PROJ>
+    <NOM_RUNT>Criar HyperLink</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1018</ID>
+    <NOM_PROJ>Magento2</NOM_PROJ>
+    <NOM_RUNT>Integração Magento</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1019</ID>
+    <NOM_PROJ>SearchDialog</NOM_PROJ>
+    <NOM_RUNT>Localizar</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1020</ID>
+    <NOM_PROJ>FrmParametrosDoVisa</NOM_PROJ>
+    <NOM_RUNT>Parametros do Visa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1021</ID>
+    <NOM_PROJ>FrmPrisma</NOM_PROJ>
+    <NOM_RUNT>Prisma</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1022</ID>
+    <NOM_PROJ>frmVisaParametrosServicos</NOM_PROJ>
+    <NOM_RUNT>Serviços do Visa</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1023</ID>
+    <NOM_PROJ>RibbonForm1</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1024</ID>
+    <NOM_PROJ>xrmConfigCrm</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1025</ID>
+    <NOM_PROJ>XrmMainForm</NOM_PROJ>
+    <NOM_RUNT>XRM Feline</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1026</ID>
+    <NOM_PROJ>xrmReportOrcamento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1027</ID>
+    <NOM_PROJ>FrmAnexoItemOrcamento</NOM_PROJ>
+    <NOM_RUNT>Anexos do Pedido</NOM_RUNT>
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1028</ID>
+    <NOM_PROJ>frmParcelamentoPedido</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1029</ID>
+    <NOM_PROJ>uc_New_Agenda_Iteracao</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1030</ID>
+    <NOM_PROJ>uc_New_Cadasto</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1031</ID>
+    <NOM_PROJ>uc_New_CampanhaEvento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1032</ID>
+    <NOM_PROJ>uc_New_CampanhaEventoDesp</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1033</ID>
+    <NOM_PROJ>uc_New_Compromisso</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1034</ID>
+    <NOM_PROJ>uc_New_Conta</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1035</ID>
+    <NOM_PROJ>uc_New_Contato</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1036</ID>
+    <NOM_PROJ>uc_New_ContatosFone</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1037</ID>
+    <NOM_PROJ>uc_New_Fase_Tarefa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1038</ID>
+    <NOM_PROJ>uc_New_FollowUp</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1039</ID>
+    <NOM_PROJ>uc_New_Iteracao</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1040</ID>
+    <NOM_PROJ>uc_New_Oportunidade</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1041</ID>
+    <NOM_PROJ>uc_New_Orcamento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1042</ID>
+    <NOM_PROJ>uc_New_Tarefa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1043</ID>
+    <NOM_PROJ>PreviewControl</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1044</ID>
+    <NOM_PROJ>uc_Usuario_sistema</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1045</ID>
+    <NOM_PROJ>ucNivelDecisao_rg</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1046</ID>
+    <NOM_PROJ>ucRating_rg</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1047</ID>
+    <NOM_PROJ>ucSituacao_rg</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1048</ID>
+    <NOM_PROJ>ucTipoConta_rg</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1049</ID>
+    <NOM_PROJ>ucTipoEmpresa_rg</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1050</ID>
+    <NOM_PROJ>ucTipoPessoa_rg</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1051</ID>
+    <NOM_PROJ>ucVisibilidade_rg</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1052</ID>
+    <NOM_PROJ>ucMenuPortal</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1053</ID>
+    <NOM_PROJ>uc_Agenda</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1054</ID>
+    <NOM_PROJ>uc_aniversariantes</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1055</ID>
+    <NOM_PROJ>uc_compromisso</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1056</ID>
+    <NOM_PROJ>uc_follow_ups</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1057</ID>
+    <NOM_PROJ>uc_Graficos</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1058</ID>
+    <NOM_PROJ>uc_Oportunidade</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1059</ID>
+    <NOM_PROJ>uc_Orcamento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1060</ID>
+    <NOM_PROJ>uc_tarefas</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1061</ID>
+    <NOM_PROJ>uc_List_Cadastros</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1062</ID>
+    <NOM_PROJ>uc_List_CampanhaEventos</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1063</ID>
+    <NOM_PROJ>uc_List_Compromisso</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1064</ID>
+    <NOM_PROJ>uc_List_Conta</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1065</ID>
+    <NOM_PROJ>uc_List_Contato</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1066</ID>
+    <NOM_PROJ>uc_List_Oportunidade</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1067</ID>
+    <NOM_PROJ>uc_List_Orcamento</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+  <PESQUISA>
+    <ID>1068</ID>
+    <NOM_PROJ>uc_List_Tarefa</NOM_PROJ>
+    <NOM_RUNT />
+  </PESQUISA>
+</NewDataSet>
